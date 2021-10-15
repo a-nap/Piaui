@@ -73,9 +73,9 @@ const newPrimer = () => [
 // screen, main experiment, result logging, and end screen. The instructions 
 // depend on the counterbalance of answers (yes/no on the left or right). In the 
 // absence of manual assignment the participant are assigned to instruction 1
-if (GetURLParameter("seqOrder")<=4)
+if (GetURLParameter("withsquare")<=4)
     Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
-else if (GetURLParameter("seqOrder")>=5)
+else if (GetURLParameter("withsquare")>=5)
     Sequence("ethics", "setcounter", "participants", "instructions2", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
 else 
     Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
