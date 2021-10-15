@@ -1,316 +1,1097 @@
-"ITEM","CONDITION","VERB","ADJECTIVE","ADJTYPE","SENTENCE","TYPE","LIST","ANSWER1","ANSWER2"
-1,3,"verhielt sich","abweisend","SLP","Andrea*verhielt sich*abweisend,*und zwar*um*das Date*schneller*zu beenden.","item",3,"ja","nein"
-2,2,"war","beliebt","ILP","Anja*war*beliebt,*und zwar*um*die Rivalin*besser*zu erreichen.","item",3,"ja","nein"
-3,1,"war","altmodisch","SLP","Anna*war*altmodisch,*und zwar*um*den Stiefvater*nicht*zu verärgern.","item",3,"ja","nein"
-4,4,"verhielt sich","bereit","ILP","Beate*verhielt sich*bereit,*und zwar*um*die Vögel*im richtigen Moment*zu erwischen.","item",3,"ja","nein"
-5,3,"verhielt sich","barbarisch","SLP","Svenja*verhielt sich*barbarisch,*und zwar*um*die Wikinger*für sich*zu gewinnen.","item",3,"ja","nein"
-6,2,"war","hübsch","ILP","Clara*war*hübsch,*und zwar*um*die Stiefmutter*von sich*zu überzeugen.","item",3,"ja","nein"
-7,1,"war","chaotisch","SLP","Elena*war*chaotisch,*und zwar*um*ihre Kreativität*und ihren Innovationsgeist*zu kultivieren.","item",3,"ja","nein"
-8,4,"verhielt sich","promoviert","ILP","Yannik*verhielt sich*promoviert,*und zwar*um*die Schwiegermutter*von sich*zu überzeugen.","item",3,"ja","nein"
-9,3,"verhielt sich","defensiv","SLP","Elisa*verhielt sich*defensiv,*und zwar*um*die Anwälte*aus dem Konzept*zu bringen.","item",3,"ja","nein"
-10,2,"war","betäubt","ILP","Hannah*war*betäubt,*und zwar*um*die Erzieher*damit*zu ärgern.","item",3,"ja","nein"
-11,1,"war","energisch","SLP","Helena*war*energisch,*und zwar*um*das Laufen*hinter sich*zu bringen.","item",3,"ja","nein"
-12,4,"verhielt sich","arbeitsunfähig","ILP","Helga*verhielt sich*arbeitsunfähig,*und zwar*um*die Arbeit*schnell*zu erledigen.","item",3,"ja","nein"
-13,3,"verhielt sich","erwachsen","SLP","Jana*verhielt sich*erwachsen,*und zwar*um*Wodka*für die Party*zu kaufen.","item",3,"ja","nein"
-14,2,"war","begabt","ILP","Sophie*war*begabt,*und zwar*um*die Eltern*stolz auf sie*zu machen.","item",3,"ja","nein"
-15,1,"war","fröhlich","SLP","Jasmin*war*fröhlich,*und zwar*um*ihre Laune*wieder*zu verbessern.","item",3,"ja","nein"
-16,4,"verhielt sich","satt","ILP","Katja*verhielt sich*satt,*und zwar*um*die Großeltern*wieder*zu beruhigen.","item",3,"ja","nein"
-17,3,"verhielt sich","gerissen","SLP","Julia*verhielt sich*gerissen,*und zwar*um*die Informantin*zum Reden*zu ermuntern.","item",3,"ja","nein"
-18,2,"war","arm","ILP","Laura*war*arm,*und zwar*um*die Schätze*sich*zu schnappen.","item",3,"ja","nein"
-19,1,"war","gutgläubig","SLP","Leonie*war*gutgläubig,*und zwar*um*ihre Naivität*als Alibi*zu nutzen.","item",3,"ja","nein"
-20,4,"verhielt sich","klein","ILP","Linda*verhielt sich*klein,*und zwar*um*die Hexe*über ihre wahren Absichten*zu täuschen.","item",3,"ja","nein"
-21,3,"verhielt sich","hartherzig","SLP","Lisa*verhielt sich*hartherzig,*und zwar*um*die Scheidung*möglichst stark*zu erschweren.","item",3,"ja","nein"
-22,2,"war","verwitwet","ILP","Marie*war*verwitwet,*und zwar*um*Kompromisse*im Alltag*zu vermeiden.","item",3,"ja","nein"
-23,1,"war","hemmungslos","SLP","Miriam*war*hemmungslos,*und zwar*um*ihre Fantasien*in Gänze*auszuleben.","item",3,"ja","nein"
-24,4,"verhielt sich","wunderschön","ILP","Nadine*verhielt sich*wunderschön,*und zwar*um*die Atmosphäre*wieder*zu entspannen.","item",3,"ja","nein"
-25,3,"verhielt sich","ignorant","SLP","Sabine*verhielt sich*ignorant,*und zwar*um*ihren Mann*absichtlich*zu verärgern.","item",3,"ja","nein"
-26,2,"war","einarmig","ILP","Sandra*war*einarmig,*und zwar*um*ihre Lehrer*auf die Palme*zu treiben.","item",3,"ja","nein"
-27,1,"war","kindisch","SLP","Saskia*war*kindisch,*und zwar*um*ihren Vater*beim Abendessen*zu verärgern.","item",3,"ja","nein"
-28,4,"verhielt sich","hässlich","ILP","Petra*verhielt sich*hässlich,*und zwar*um*die Azubis*bei der Prüfung*herauszufordern.","item",3,"ja","nein"
-29,3,"verhielt sich","liberal","SLP","Verena*verhielt sich*liberal,*und zwar*um*den Studenten*viel Freiheit*einzuräumen.","item",3,"ja","nein"
-30,2,"war","vielseitig","ILP","Adam*war*vielseitig,*und zwar*um*die Kinder*wieder*zu beruhigen.","item",3,"ja","nein"
-31,1,"war","lustig","SLP","Alex*war*lustig,*und zwar*um*die Clowns*von sich*zu überzeugen.","item",3,"ja","nein"
-32,4,"verhielt sich","berühmt","ILP","Armin*verhielt sich*berühmt,*und zwar*um*die Frau*beim ersten Date*zu beeindrucken.","item",3,"ja","nein"
-33,3,"verhielt sich","nachlässig","SLP","Daniel*verhielt sich*nachlässig,*und zwar*um*die Arbeit*auf andere*abzuwälzen.","item",3,"ja","nein"
-34,2,"war","tätowiert","ILP","Dennis*war*tätowiert,*und zwar*um*seine Persönlichkeit*der Welt*zu zeigen.","item",3,"ja","nein"
-35,1,"war","nervös","SLP","Janina*war*nervös,*und zwar*um*der Jury*Angst*vorzuspielen.","item",3,"ja","nein"
-36,4,"verhielt sich","minderjährig","ILP","Fritz*verhielt sich*minderjährig,*und zwar*um*das Geheimnis*endlich*zu enthüllen.","item",3,"ja","nein"
-37,3,"verhielt sich","passiv","SLP","Heiko*verhielt sich*passiv,*und zwar*um*seine Frau*nicht*aufzubringen.","item",3,"ja","nein"
-38,2,"war","verlobt","ILP","Holger*war*verlobt,*und zwar*um*seine Ziele*schneller*zu erreichen.","item",3,"ja","nein"
-39,1,"war","reserviert","SLP","Jakob*war*reserviert,*und zwar*um*seine Gefühle*besser*zu verbergen.","item",3,"ja","nein"
-40,4,"verhielt sich","reich","ILP","Thomas*verhielt sich*reich,*und zwar*um*die Prinzessin*und den König*zu beeindrucken.","item",3,"ja","nein"
-41,3,"verhielt sich","selbstlos","SLP","Jannik*verhielt sich*selbstlos,*und zwar*um*die Kameraden*für sich*zu gewinnen.","item",3,"ja","nein"
-42,2,"war","gewaltig","ILP","Jonas*war*gewaltig,*und zwar*um*die Frau*bei der Debatte*einzuschüchtern.","item",3,"ja","nein"
-43,1,"war","skeptisch","SLP","Karl*war*skeptisch,*und zwar*um*die Theorie*in Frage*zu stellen.","item",3,"ja","nein"
-44,4,"verhielt sich","dünn","ILP","Kilian*verhielt sich*dünn,*und zwar*um*die Konkurrenz*konsequent*auszuschalten.","item",3,"ja","nein"
-45,3,"verhielt sich","taktvoll","SLP","Klaus*verhielt sich*taktvoll,*und zwar*um*Rücksicht*auf andere*zu nehmen.","item",3,"ja","nein"
-46,2,"war","bleich","ILP","Lorenz*war*bleich,*und zwar*um*die Geschäftslage*klar*darzustellen.","item",3,"ja","nein"
-47,1,"war","tolerant","SLP","Nils*war*tolerant,*und zwar*um*den Sträflingen*eine weitere Chance*zu geben.","item",3,"ja","nein"
-48,4,"verhielt sich","verwaist","ILP","Lukas*verhielt sich*verwaist,*und zwar*um*seine Freunde*nicht*zu enttäuschen.","item",3,"ja","nein"
-49,3,"verhielt sich","unruhig","SLP","Manuel*verhielt sich*unruhig,*und zwar*um*die Verdächtigen*hinters Licht*zu führen.","item",3,"ja","nein"
-50,2,"war","arbeitslos","ILP","Marc*war*arbeitslos,*und zwar*um*die Kollegen*in schlechtem Licht*erscheinen zu lassen.","item",3,"ja","nein"
-51,1,"war","verärgert","SLP","Martin*war*verärgert,*und zwar*um*seine Unzufriedenheit*mit der Situation*zu zeigen.","item",3,"ja","nein"
-52,4,"verhielt sich","ängstlich","ILP","Ludwig*verhielt sich*ängstlich,*und zwar*um*der Jury*glaubhaft*zu erscheinen.","item",3,"ja","nein"
-53,3,"verhielt sich","vorsichtig","SLP","Oliver*verhielt sich*vorsichtig,*und zwar*um*die Fallen*im Labyrinth*zu vermeiden.","item",3,"ja","nein"
-54,2,"war","vergesslich","ILP","Pascal*war*vergesslich,*und zwar*um*die Medikamente*vom Arzt*zu bekommen.","item",3,"ja","nein"
-55,1,"war","weiblich","SLP","Sonja*war*weiblich,*und zwar*um*ihre Figur*besonders*zu betonen.","item",3,"ja","nein"
-56,4,"verhielt sich","attraktiv","ILP","Tobias*verhielt sich*attraktiv,*und zwar*um*die Lehrlinge*besser*zu betreuen.","item",3,"ja","nein"
-57,3,"verhielt sich","zielbewusst","SLP","Robin*verhielt sich*zielbewusst,*und zwar*um*das Studium*schnell*abzuschließen.","item",3,"ja","nein"
-58,2,"war","dienstbereit","ILP","Peter*war*dienstbereit,*und zwar*um*die Ausbildung*erfolgreich*zu beenden.","item",3,"ja","nein"
-59,1,"war","zufrieden","SLP","Simon*war*zufrieden,*und zwar*um*die Kunden*von dem Deal*zu überzeugen.","item",3,"ja","nein"
-60,4,"verhielt sich","behindert","ILP","Stefan*verhielt sich*behindert,*und zwar*um*die Debatte*schnell*aufzuheizen.","item",3,"ja","nein"
-1001,100,".",".",".","Alina*wartete*auf die Ergebnisse,*nachdem*sie*den Prüfungsraum*mit ihren Freunden*verlassen hatte.","filler",3,"ja","nein"
-1002,100,".",".",".","Amelie*goss*die Blumen,*während*Frieder*die Bäume*und Hecken*schnitt.","filler",3,"ja","nein"
-1003,100,".",".",".","Andreas*lachte*über den Witz,*nachdem*Michi*ihn*erzählt hatte.","filler",3,"ja","nein"
-1004,100,".",".",".","Angelina*spielte*mit dem Auto,*aber*sie*hätte*viel lieber*gepuzzelt.","filler",3,"ja","nein"
-1005,100,".",".",".","Benjamin*fuhr*Schlitten,*aber*es*hatte*an dem Tag*zu wenig Schnee.","filler",3,"ja","nein"
-1006,100,".",".",".","Bianca*sammelte*Briefmarken,*bevor*sie*diese*in einem Album*anordnete.","filler",3,"ja","nein"
-1007,100,".",".",".","Birgit*räumte*das Zimmer auf,*während*ihre Schwester*die Küche*um das Bad*putzte.","filler",3,"ja","nein"
-1008,100,".",".",".","Björn*entschied sich*für einen Ferrari,*während*seine Freundin*einen Porsche*kaufen wollte.","filler",3,"ja","nein"
-1009,100,".",".",".","Britta*hielt sich*zurück,*nachdem*sie*sich beim letzten Mal*massiv*beschwert hatte.","filler",3,"ja","nein"
-1010,100,".",".",".","Carolin*setzte sich*in die Bibliothek,*während*es*draußen*schon wieder*zu regnen begann.","filler",3,"ja","nein"
-1011,100,".",".",".","Cedric*drückte*auf den Knopf,*wobei*dieser*rot zu leuchten*begann.","filler",3,"ja","nein"
-1012,100,".",".",".","Chiara*kochte*einen Eintopf,*aber*sie*hatte die Kartoffeln*und die Zwiebeln*vergessen.","filler",3,"ja","nein"
-1013,100,".",".",".","Christian*machte sich*sich Sorgen,*bevor*er*die Polizei*rief.","filler",3,"ja","nein"
-1014,100,".",".",".","Claudia*schnitt*die Hecke,*bevor*sie*den Rasen*mähte.","filler",3,"ja","nein"
-1015,100,".",".",".","Daniela*schrieb*im Notizbuch,*bevor*sie*die Zähne putzte*und schlafen ging.","filler",3,"ja","nein"
-1016,102,".",".",".","David*sagte*die Wahrheit,*nachdem*die Straßenbahn*vom Amt*zurücktritt.","filler",3,"ja","nein"
-1017,100,".",".",".","Denise*studierte*Medizin,*nachdem*sie*ihr Physikstudium*abgebrochen hatte.","filler",3,"ja","nein"
-1018,100,".",".",".","Dirk*benutzte*Windows 7,*aber*er*hatte*immer wieder*Probleme damit.","filler",3,"ja","nein"
-1019,100,".",".",".","Dominik*baute*einen Schneemann,*während*Andrea*Schlitten*fuhr.","filler",3,"ja","nein"
-1020,102,".",".",".","Eckard*nahm*schnell ab,*wobei*er*den Tag*beschimpfte.","filler",3,"ja","nein"
-1021,100,".",".",".","Elias*ernährte sich*vom Bio-Essen,*aber*es*fiel ihm*sehr schwer.","filler",3,"ja","nein"
-1022,100,".",".",".","Elisabeth*weinte*nur selten,*während*sie*nach dem Tod*ihrer Katze*häufiger weinen musste.","filler",3,"ja","nein"
-1023,102,".",".",".","Emil*lebte*im Ausland,*nachdem*er*die Bleistifte*grillte.","filler",3,"ja","nein"
-1024,100,".",".",".","Emma*lief*einen Marathon,*aber*sie*hatte nicht*gut trainiert.","filler",3,"ja","nein"
-1025,102,".",".",".","Esther*fand*ein passendes Beispiel,*bevor*der Vermieter*zum Einkaufen*schwamm.","filler",3,"ja","nein"
-1026,100,".",".",".","Eva*flog*nach Dublin,*bevor*sie*nach London*geflogen war.","filler",3,"ja","nein"
-1027,100,".",".",".","Fabio*bereitete*die Präsentation vor,*aber*der Beamer*funktionierte*schon wieder*nicht.","filler",3,"ja","nein"
-1028,100,".",".",".","Felix*trug*eine Brille,*während*Paula*Kontaktlinsen*trug.","filler",3,"ja","nein"
-1029,102,".",".",".","Florian*entwickelte*einen Impfstoff,*wobei*die Kellnerin*ein Lied*sang.","filler",3,"ja","nein"
-1030,100,".",".",".","Franz*schippte*Schnee,*bevor*er*zur Arbeit*ging.","filler",3,"ja","nein"
-1031,100,".",".",".","Franziska*baute*ein Haus,*nachdem*sie*sich einen Bauplatz*gekauft hatte.","filler",3,"ja","nein"
-1032,102,".",".",".","Frauke*schrieb*ein Gedicht,*während*der Koch*bunte Zigaretten*verteilte.","filler",3,"ja","nein"
-1033,100,".",".",".","Georg*zählte*die Sterne,*nachdem*er*sich mit seinem Fernrohr*die Sternbilder*angesehen hatte.","filler",3,"ja","nein"
-1034,100,".",".",".","Hans*putzte*die Fenster,*nachdem*es*geregnet*hatte.","filler",3,"ja","nein"
-1035,102,".",".",".","Jasper*druckte*die Unterlagen,*während*das Buch*die Pflanzen*fraß.","filler",3,"ja","nein"
-1036,100,".",".",".","Jens*lag*in der Augenklinik,*wobei*er*dringend*am Herz*operiert werden musste.","filler",3,"ja","nein"
-1037,102,".",".",".","Jörg*mochte*keinen Spargel,*wobei*er*den Angebot*ablehnte.","filler",3,"ja","nein"
-1038,100,".",".",".","Julian*spielte*Monopoly,*nachdem*Mensch-ärgere-dich-nicht*ihm nicht*gefallen hatte.","filler",3,"ja","nein"
-1039,100,".",".",".","Juliane*kaufte*ein Busticket,*bevor*sie*nach Berlin*fuhr.","filler",3,"ja","nein"
-1040,102,".",".",".","Justin*glaubte*an Gott,*aber*saugte*den Schreibtisch*sehr gerne.","filler",3,"ja","nein"
-1041,100,".",".",".","Kai*hörte*dem Lehrer zu,*während*er*eifrig*mitschrieb.","filler",3,"ja","nein"
-1042,101,".",".",".","Sabine*stritt*mit der Banane,*wobei*ihr Wecker*schon wieder*nicht*geklingelt hatte.","filler",3,"ja","nein"
-1043,100,".",".",".","Katrin*erschoss*den Dieb,*bevor*die Polizei*ihn*finden konnte.","filler",3,"ja","nein"
-1044,102,".",".",".","Kim*arbeitete*bei der Bundeswehr,*nachdem*die Augenklinik*die Tür*verhinderte.","filler",3,"ja","nein"
-1045,100,".",".",".","Lars*machte*Inventur,*bevor*er*nach Hause*ging.","filler",3,"ja","nein"
-1046,100,".",".",".","Leon*putzte*die Fenster,*nachdem*Marcel*ihn dazu*aufgefordert hatte.","filler",3,"ja","nein"
-1047,100,".",".",".","Linus*lebte*in Frankfurt,*aber*er*wollte eigentlich*lieber in Köln*wohnen.","filler",3,"ja","nein"
-1048,102,".",".",".","Luisa*schrieb*an die Tafel,*nachdem*sie*die Zähne*trug.","filler",3,"ja","nein"
-1049,100,".",".",".","Maja*pflückte*Blumen,*während*Hanna*die Duftkerzen*anzündete.","filler",3,"ja","nein"
-1050,100,".",".",".","Malte*plante*seinen Urlaub,*während*er*für die Prüfungen*lernen sollte.","filler",3,"ja","nein"
-1051,100,".",".",".","Markus*jagte*im Wald,*wobei*das*strengstens*verboten war.","filler",3,"ja","nein"
-1052,102,".",".",".","Marvin*besuchte*die Großeltern,*bevor*er*die Großeltern*besuchte.","filler",3,"ja","nein"
-1053,100,".",".",".","Matthias*baute*das Regal zusammen,*nachdem*er*es bei IKEA*gekauft hatte.","filler",3,"ja","nein"
-1054,100,".",".",".","Maximilian*unterrichtete*am Gymnasium,*nachdem*er*nach Mainz*gezogen war.","filler",3,"ja","nein"
-1055,100,".",".",".","Melanie*putzte sich*die Nase,*bevor*diese*zu laufen*begann.","filler",3,"ja","nein"
-1056,102,".",".",".","Melina*arbeitete*an einem Roman,*bevor*sie*ihm*schon lange*hasste.","filler",3,"ja","nein"
-1057,100,".",".",".","Melissa*mochte*ihre Arbeit,*aber*ihre Freizeit*noch*viel mehr.","filler",3,"ja","nein"
-1058,100,".",".",".","Micha*reparierte*das Auto,*während*seine Tochter*das Wohnmobil*reparierte.","filler",3,"ja","nein"
-1059,100,".",".",".","Michael*nähte*den Knopf an,*wobei*er*YouTube-Videos*anschaute.","filler",3,"ja","nein"
-1060,102,".",".",".","Michelle*lernte*zu malen,*nachdem*der Professor*die Wände*kaufte.","filler",3,"ja","nein"
-1061,100,".",".",".","Moritz*pendelte*mit dem Zug,*während*seine Freundin*mit dem Auto*zur Arbeit*fuhr.","filler",3,"ja","nein"
-1062,100,".",".",".","Nele*ruhte sich*aus,*während*Maja*das Mittagessen*zubereitete.","filler",3,"ja","nein"
-1063,100,".",".",".","Nick*reparierte*sein Fahrrad,*nachdem*er*damit*gestürzt war.","filler",3,"ja","nein"
-1064,102,".",".",".","Nicole*unterrichtete*Philosophie,*bevor*sie*Buntstifte*bekommen hatte.","filler",3,"ja","nein"
-1065,100,".",".",".","Steffi*drehte*einen Film,*bevor*sie*als Drehbuchautorin*arbeitete.","filler",3,"ja","nein"
-1066,100,".",".",".","Otto*hielt*eine Rede,*aber*keiner*hörte*ihm zu.","filler",3,"ja","nein"
-1067,102,".",".",".","Pia*trank*gerne Bier,*nachdem*die Kreide*auf dem Tisch*Ski fuhr.","filler",3,"ja","nein"
-1068,100,".",".",".","Regine*strich*die Wände,*wobei*sie*lieber zuerst*den Boden*verlegt hätte.","filler",3,"ja","nein"
-1069,100,".",".",".","Renate*lächelte*ihre Mutter an,*bevor*sie*in den Zug*stieg.","filler",3,"ja","nein"
-1070,102,".",".",".","Rita*kochte*Linsen,*nachdem*der Hafen*die Brücke*verließ.","filler",3,"ja","nein"
-1071,100,".",".",".","Sabrina*aß*Frischkornbrei,*aber*er*schmeckte*ihr nicht.","filler",3,"ja","nein"
-1072,100,".",".",".","Sebastian*blieb*sitzen,*wobei*er*damit eigentlich*schon gerechnet*hatte.","filler",3,"ja","nein"
-1073,102,".",".",".","Stefanie*schloss*die Tür,*nachdem*die Drogen*Ankara*verkauften.","filler",3,"ja","nein"
-1074,100,".",".",".","Steffen*mochte*Kürbiskerne,*wobei*er*auch Sonnenblumenkerne*ganz gerne*aß.","filler",3,"ja","nein"
-1075,100,".",".",".","Sven*zog*nach Tübingen um,*nachdem*es*zu einem Wasserschaden*in seiner Wohnung*gekommen war.","filler",3,"ja","nein"
-1076,100,".",".",".","Tina*schrieb*ein Drehbuch,*bevor*sie*auch Regie*führte.","filler",3,"ja","nein"
-1077,102,".",".",".","Torsten*fiel*auf,*aber*er*teilte*die Blume.","filler",3,"ja","nein"
-1078,100,".",".",".","Ulrike*sang*im Chor,*bevor*sie*in den Gitarrenunterricht*ging.","filler",3,"ja","nein"
-1079,101,".",".",".","Linda*goss*den Bademantel,*während*der Rasenmäher*getauft*wurde.","filler",3,"ja","nein"
-1080,100,".",".",".","Vanessa*zeigte*auf die Uhr,*nachdem*sie*ihre Kinder*ermahnt hatte.","filler",3,"ja","nein"
-1081,100,".",".",".","Vera*züchtete*Bakterienkulturen,*während*sie*Mikrobiologie*studierte.","filler",3,"ja","nein"
-1082,100,".",".",".","Viktoria*lernte*Chinesisch,*wobei*sie*Probleme*mit der Aussprache*hatte.","filler",3,"ja","nein"
-1083,100,".",".",".","Zoe*verkaufte*ihr Fahrrad,*bevor*sie*nach Neuseeland*und Australien*flog.","filler",3,"ja","nein"
-1084,100,".",".",".","Sie*sprach*Englisch*und Russisch,*wobei*sich ihre Aussprache*mit der Zeit*allmählich verbesserte.","filler",3,"ja","nein"
-1085,100,".",".",".","Sie*organisierte*plattdeutsche Gesprächskreise,*nachdem*die Nachfrage*danach*gestiegen war.","filler",3,"ja","nein"
-1086,100,".",".",".","Sie*antwortete*schriftlich,*während*sie*beim letzten Mal*angerufen hatte.","filler",3,"ja","nein"
-1087,102,".",".",".","Die Krankenschwester*arbeitete*gerne,*aber*die Ameisen*zählte sie*ungern.","filler",3,"ja","nein"
-1088,100,".",".",".","Die Professorin*begrüßte*die Studenten,*bevor*sie*ihre Kolleginnen*und Kollegen*begrüßte.","filler",3,"ja","nein"
-1089,100,".",".",".","Die Direktorin*vergab*Preise,*aber*nicht*so viele*wie*im letzten Jahr.","filler",3,"ja","nein"
-1090,100,".",".",".","Die Expertin*beschimpfte*die Zeugen,*bevor*sie*den Saal*verlassen musste.","filler",3,"ja","nein"
-1091,102,".",".",".","Sie*richtete sich*an Kindergärtner,*während*sie*dort Urlaub*machen wollte.","filler",3,"ja","nein"
-1092,100,".",".",".","Die Kanzlerin*äußerte sich*dazu,*bevor*sie*eine offizielle Pressekonferenz*gab.","filler",3,"ja","nein"
-1093,100,".",".",".","Die Journalistin*wagte sich*die Frage*zu stellen,*bevor*der Pressesprecher*einschreiten*konnte.","filler",3,"ja","nein"
-1094,102,".",".",".","Die Prinzessin*verabschiedete sich*von dem Ritter,*aber*mit dem Buch*kuschelte*sie nicht.","filler",3,"ja","nein"
-1095,100,".",".",".","Die Köchin*hielt sich*an ihr Rezept,*nachdem*sie*es von ihrer Großmutter*vererbt bekam.","filler",3,"ja","nein"
-1096,100,".",".",".","Dem Mädchen*fehlte*der Führerschein,*aber*sie*fuhr*trotzdem Auto.","filler",3,"ja","nein"
-1097,100,".",".",".","Die Rentnerin*widmete sich*der Brieftaubenzucht,*bevor*sie*ins Altersheim*zog.","filler",3,"ja","nein"
-1098,100,".",".",".","Die Preisträgerin*holte sich*den Pokal,*aber*sie*hatte ihn*nicht verdient.","filler",3,"ja","nein"
-1099,102,".",".",".","Er*freute sich*über das Angebot,*aber*er*hätte viel lieber*das Holz*gekocht.","filler",3,"ja","nein"
-1100,102,".",".",".","Der Superstar*faszinierte*Kinder,*wobei*sie*den Trainer*vollendeten.","filler",3,"ja","nein"
-1101,102,".",".",".","Der Junge*vertrug*Nüsse,*aber*seine Kommilitonin*musste*lachen.","filler",3,"ja","nein"
-1102,100,".",".",".","Der Spion*verdiente*wenig Geld,*nachdem*der BND*die Bezüge*gekürzt hatte.","filler",3,"ja","nein"
-1103,101,".",".",".","Tabea*spielte*mit der Kartoffel,*aber*Bran*bearbeitete*seine Bettwäsche.","filler",3,"ja","nein"
-1104,100,".",".",".","Der Musiker*plante*keine Abschiedstour,*während*seine Fans*noch darauf*hofften.","filler",3,"ja","nein"
-1105,101,".",".",".","Kameramänner*putzten*den Schneemann,*wobei*der Regisseur*das*verboten hatte.","filler",3,"ja","nein"
-1106,100,".",".",".","Der Fotograf*verfolgte*seine Visionen,*nachdem*er*von den Kritikern*gelobt wurde.","filler",3,"ja","nein"
-1107,100,".",".",".","Der Anwalt*wunderte sich*über die Aussage,*aber*er*unterstützte*weiterhin*seinen Mandanten.","filler",3,"ja","nein"
-1108,100,".",".",".","Ein Bürger*beklagte sich*darüber,*während*sich die anderen*darüber*freuten.","filler",3,"ja","nein"
-1109,100,".",".",".","Der Besserwisser*meldete sich*immer gleich,*wobei*er*still*sein sollte.","filler",3,"ja","nein"
-1110,100,".",".",".","Der Theologe*befasste sich*mit diesem Thema,*bevor*er*seine Predigt*hielt.","filler",3,"ja","nein"
-1111,100,".",".",".","Der Geschäftsmann*entschuldigte sich*bei der Polizei,*nachdem*er*eine Polizeistreife*angepöbelt hatte.","filler",3,"ja","nein"
-1112,100,".",".",".","100 Personen*nahmen*an der Radtour teil,*wobei*es*im Frühjahr*150 Teilnehmer*waren.","filler",3,"ja","nein"
-1113,100,".",".",".","Er*erhielt*den Pulitzer-Preis,*bevor*er*den Nobelpreis*bekam.","filler",3,"ja","nein"
-1114,100,".",".",".","Alle*kümmerten sich*um das Kind,*aber*keiner*fühlte sich*verantwortlich.","filler",3,"ja","nein"
-1115,100,".",".",".","Am Wochenende*schien*die Sonne,*nachdem*es*am Donnerstag*geregnet hatte.","filler",3,"ja","nein"
-1116,101,".",".",".","Die Diebin*druckte*das Auto,*aber*sie*zersägte*die Zeitschrift.","filler",3,"ja","nein"
-1117,100,".",".",".","Auf dem Hof*gab es*viel zu sehen,*während*es*auf den Feldern*wenig*zu sehen gab.","filler",3,"ja","nein"
-1118,101,".",".",".","Ursel*verschickte*das Haus,*nachdem*sie*noch Auto*fahren musste.","filler",3,"ja","nein"
-1119,100,".",".",".","Bananen*gab es*in der Pause,*aber*Apfel*gab es an dem Tag*keine.","filler",3,"ja","nein"
-1120,100,".",".",".","Bei der Abstimmung*gab es*Gegner,*während*es*auch viele Befürworter*gab.","filler",3,"ja","nein"
-1121,100,".",".",".","Beide Regionen*hatten*jeweils*eigene Schulen,*wobei*nur eine Region*eine Universität*hatte.","filler",3,"ja","nein"
-1122,100,".",".",".","Die Bienen*bauten*sechseckige Bienenwaben,*während*sie*sich auch noch*um die Bienenkönigin*kümmerten.","filler",3,"ja","nein"
-1123,100,".",".",".","Das Boot*lag*im Hafen,*während*die Pumpe*und der Bootsrumpf*repariert wurde.","filler",3,"ja","nein"
-1124,100,".",".",".","Das Boot*patrouillierte*in der Narva-Bucht,*aber*in der Nordsee*nur*sehr selten.","filler",3,"ja","nein"
-1125,101,".",".",".","Lara*lackierte*sich die Wimpern,*wobei*ein Sturm*bald*aufzog.","filler",3,"ja","nein"
-1126,100,".",".",".","Das Geld*wurde*dringend gebraucht,*aber*keiner*wollte das verlangte Geld*zahlen.","filler",3,"ja","nein"
-1127,100,".",".",".","Das Getränk*schmeckte*herb,*wobei*das*den Einheimischen*schmeckte.","filler",3,"ja","nein"
-1128,101,".",".",".","Karsten*reiste*in den Garten,*aber*verlierte*ein Haar*dabei.","filler",3,"ja","nein"
-1129,100,".",".",".","Das Mädchenteam*qualifizierte sich*für das Landesfinale,*bevor*sich die Torfrau*am Bein*verletzte.","filler",3,"ja","nein"
-1130,100,".",".",".","Das Opfer*befand sich*auf dem Heimweg,*bevor*der Täter*ihm*auflauerte.","filler",3,"ja","nein"
-1131,100,".",".",".","Das Publikum*feuerte*die Fußballspieler an,*wobei*es*wilde Fangesänge*anstimmte.","filler",3,"ja","nein"
-1132,101,".",".",".","Dorothee*hüpfte*nach Indien,*während*das Wetter*so schön*gesungen hat.","filler",3,"ja","nein"
-1133,100,".",".",".","Das Startgeld*betrug*fünf Euro,*aber*das*war eigentlich*noch günstig.","filler",3,"ja","nein"
-1134,100,".",".",".","Das Unglück*ereignete sich*bei der Zieleinfahrt,*bevor*die Fahrerin*überhaupt*reagieren konnte.","filler",3,"ja","nein"
-1135,100,".",".",".","Das Veterinäramt*fand*nichts,*aber*das*hatte nichts*zu bedeuten.","filler",3,"ja","nein"
-1136,100,".",".",".","Der Ausflug*wurde*verschoben,*nachdem*ein Gewitter*plötzlich*aufzog.","filler",3,"ja","nein"
-1137,101,".",".",".","Mareike*räumte*die Hecke auf,*nachdem*der Schrank*mit der Tasse*tanzte.","filler",3,"ja","nein"
-1138,100,".",".",".","Der Föhn*funktionierte*tadellos,*nachdem*er*vom Hersteller*überarbeitet wurde.","filler",3,"ja","nein"
-1139,101,".",".",".","Regina*trank*den Kuchen,*wobei*ihr Beinbruch*tierisch*wehgetan hat.","filler",3,"ja","nein"
-1140,100,".",".",".","Der Kilometerstand*verdoppelte sich*schnell,*bevor*das Ziel*endlich*erreicht wurde.","filler",3,"ja","nein"
-1141,101,".",".",".","Silke*unterrichtete*die Gabeln,*während*sie*politisch*verfolgt wurde.","filler",3,"ja","nein"
-1142,101,".",".",".","Johanna*strich*das Radio,*wobei*sie*das Projekt*endlich*abgeschlossen hatten.","filler",3,"ja","nein"
-1143,100,".",".",".","Der Preisträger*arbeitete*als Dozent,*bevor*er*den Hölderlin-Preis*gewann.","filler",3,"ja","nein"
-1144,100,".",".",".","Der Radiologe*sprach*über Methoden*der Früherkennung,*nachdem*er*von den Patienten*dazu aufgefordert wurde .","filler",3,"ja","nein"
-1145,102,".",".",".","Der Schornstein*musste*gesichert werden,*aber*die Autos*warteten *draußen.","filler",3,"ja","nein"
-1146,100,".",".",".","Der Sportler*heiratete*die Schauspielerin,*nachdem*er*den Pokal*gewonnen hatte.","filler",3,"ja","nein"
-1147,100,".",".",".","Der städtische Fachdienst*zeigte*einmal*guten Willen,*nachdem*sich die Bürger*mehrere Wochen lang*beschwert hatten.","filler",3,"ja","nein"
-1148,100,".",".",".","Der Streit*eskalierte*plötzlich,*aber*die Kinder*konnten*schnell wieder*beruhigt werden.","filler",3,"ja","nein"
-1149,100,".",".",".","Der Teich*befand sich*neben einer Haltestelle,*während*sich der Spielplatz*gegenüber der Schule*befand.","filler",3,"ja","nein"
-1150,100,".",".",".","Der Wagen*fiel*vom Hänger,*bevor*die Bauarbeiter*eingreifen*konnten.","filler",3,"ja","nein"
-1151,100,".",".",".","Die Altenpfleger*fühlten sich*benachteiligt,*aber*sie*werden jetzt*von der Gewerkschaft*vertreten.","filler",3,"ja","nein"
-1152,102,".",".",".","Die Anrufe*häuften sich*über die Feiertage,*während*der Saal*durch den Monsun*weiter marschierte.","filler",3,"ja","nein"
-1153,100,".",".",".","Die Antibiotika*fehlten*immer,*wobei*es*Verbandsmaterial*im Überfluss*gab.","filler",3,"ja","nein"
-1154,100,".",".",".","Die antiken Möbel*standen*oben,*bevor*sie*heruntergetragen*wurden.","filler",3,"ja","nein"
-1155,100,".",".",".","Die Anträge*wurden*den Ratsfraktionen*vorgelegt,*nachdem*der Bürgermeister*das so*angeordnet hatte.","filler",3,"ja","nein"
-1156,102,".",".",".","Die Batterien*mussten*gewechselt werden,*aber*sie*rannten*davon.","filler",3,"ja","nein"
-1157,100,".",".",".","Die Beobachter*bildeten sich*ein eigenes Urteil,*wobei*sie*von der Presse*beobachtet wurden.","filler",3,"ja","nein"
-1158,100,".",".",".","Die Bürger*hungerten*nach Kontakten*zur Außenwelt,*während*der Staatschef*lange Auslandsreisen*machte.","filler",3,"ja","nein"
-1159,102,".",".",".","Die Delegierten*trauten sich*nicht zu trinken,*wobei*die Wolle*besonders laut*jaulte.","filler",3,"ja","nein"
-1160,101,".",".",".","Sonja*aß*die Wimperntusche,*bevor*sie*den Mann*nicht mehr liebte.","filler",3,"ja","nein"
-1161,100,".",".",".","Die Eigentümer*verkauften*das Unternehmen,*nachdem*sie*dazu*gedrängt wurden.","filler",3,"ja","nein"
-1162,100,".",".",".","Die Entlassung*erfolgte*an einem Donnerstag,*während*der Chor*in der Kirche*probte.","filler",3,"ja","nein"
-1163,101,".",".",".","Elisa*verkleidete*die Münze,*wobei*diese*die Kühe*unterstützte.","filler",3,"ja","nein"
-1164,100,".",".",".","Die Familie*ernährte sich*von Reis,*bevor*sie*im Winter*verhungerte.","filler",3,"ja","nein"
-1165,102,".",".",".","Die Familie*stieg*in den Minibus,*nachdem*der Hai*sein Bein*gebrochen hat.","filler",3,"ja","nein"
-1166,100,".",".",".","Die Familie*suchte*nach einer Wohnung,*aber*sie*fand*leider keine.","filler",3,"ja","nein"
-1167,101,".",".",".","Die Tomate*schuppte*das Wasser,*während*sie*plötzliche Krampfanfälle*bekam.","filler",3,"ja","nein"
-1168,101,".",".",".","Heidrun*züchtete*Bleistifte,*bevor*sie*ungerecht*behandelt wurde.","filler",3,"ja","nein"
-1169,101,".",".",".","Susanne*drehte*ein Buch,*nachdem*sie*dort eine Stelle*bekommen hat.","filler",3,"ja","nein"
-1170,100,".",".",".","Die Frau*sorgte sich*um ihr Privatleben,*nachdem*bei ihr*eingebrochen*wurde.","filler",3,"ja","nein"
-1171,100,".",".",".","Die Freiwilligen*holten*die Weihnachtsbäume ab,*während*die Sekretärin*für sie*Tee kochte.","filler",3,"ja","nein"
-1172,101,".",".",".","Sybille*malte*einen Text,*wobei*sie*auf die Außerirdischen*hoffte.","filler",3,"ja","nein"
-1173,100,".",".",".","Die Gemeinde*lag*in einem Landschaftsschutzgebiet,*aber*das*war lange*keinem aufgefallen.","filler",3,"ja","nein"
-1174,102,".",".",".","Die Gemeinde*musste*die Initiative übernehmen,*während*die Politiker*zur Haltestelle*rannten.","filler",3,"ja","nein"
-1175,100,".",".",".","Die Geschichte*lebte*weiter,*wobei*wir*an die Taten*erinnern mussten.","filler",3,"ja","nein"
-1176,102,".",".",".","Die Gießerei*goss*viele Großgeläute,*bevor*sie*kleine Kinder*goss.","filler",3,"ja","nein"
-1177,100,".",".",".","Die Gräfin*erbte*Gut und Schloss,*nachdem*ihr Mann*an einem Herzversagen*verstarb.","filler",3,"ja","nein"
-1178,100,".",".",".","Die Grünen*befassten sich*mit dem Thema,*aber*das*tat die FDP*auch.","filler",3,"ja","nein"
-1179,100,".",".",".","Die Gruppe*lud*alle ein,*während*die Mannschaft*unter sich*bleiben wollte.","filler",3,"ja","nein"
-1180,100,".",".",".","Die Gruppe*trainierte*am Baggersee,*wobei*sie*ein Intervalltraining*miteinbaute.","filler",3,"ja","nein"
-1181,102,".",".",".","Die Hunde*vertrugen sich*nicht,*wobei*sie*zum Infoabend*flogen.","filler",3,"ja","nein"
-1182,100,".",".",".","Die Inkas*opferten*oft Lamas,*aber*Kartoffeln,*Gold*und Menschen.","filler",3,"ja","nein"
-1183,101,".",".",".","Franz*schlug*den Salat,*während*sein Auto*kaputt*gegangen war.","filler",3,"ja","nein"
-1184,102,".",".",".","Die Käufer*kamen*aus ganz Europa,*wobei*sie*den Zirkus*und die Schneeflocken*segnen wollten.","filler",3,"ja","nein"
-1185,100,".",".",".","Die Kinder*sangen*im Chor,*aber*sie*hätten lieber*Fußball gespielt.","filler",3,"ja","nein"
-1186,100,".",".",".","Die Kinder*zeichneten*mit Kreide,*während*die Eltern*Kaffee*tranken.","filler",3,"ja","nein"
-1187,101,".",".",".","Alisa*umarmte*den Sand,*wobei*die Mieterin*nie*bezahlt hatte.","filler",3,"ja","nein"
-1188,101,".",".",".","Inge*badete*im Schnee,*aber*sah*wie eine Tüte*aus.","filler",3,"ja","nein"
-1189,100,".",".",".","Die Menschen*bewegten sich*immer weniger,*während*sie*immer dicker*wurden.","filler",3,"ja","nein"
-1190,100,".",".",".","Die Militäraktivitäten*in der Arktis*nahmen zu,*wobei*die UNO*das eigentlich*verboten hatte.","filler",3,"ja","nein"
-1191,100,".",".",".","Die Motivation*ließ*nach,*bevor*die Abschlussprüfung*zu Ende*war.","filler",3,"ja","nein"
-1192,102,".",".",".","Die Nachbarn*setzten sich*zusammen,*nachdem*der Fahrrad*den Schuppen*lackierte.","filler",3,"ja","nein"
-1193,101,".",".",".","Bernd*lebte*in der Geschichte,*wobei*ihm*das viel Spaß*machte.","filler",3,"ja","nein"
-1194,100,".",".",".","Die Organisatoren*bemühten sich*um eine feierliche Stimmung,*während*die Betrunkenen*zu randalieren*begannen.","filler",3,"ja","nein"
-1195,100,".",".",".","Die Rasse*brauchte*viel Auslauf,*aber*das*störte*Mara nicht.","filler",3,"ja","nein"
-1196,101,".",".",".","Die Schokolade*rauchte*ein Zigarillo,*wobei*die Wellen*ihr Angst*machten.","filler",3,"ja","nein"
-1197,100,".",".",".","Die Schwarzkiefer*vertrug*rauere Winter,*aber*der Hibiskus*musste*im Gartenhaus*überwintern.","filler",3,"ja","nein"
-1198,100,".",".",".","Die Senioren*gesellten sich*dazu,*während*die Pfleger*den Weihnachtsbaum*schmückten.","filler",3,"ja","nein"
-1199,102,".",".",".","Die Senioren*trauten sich*kaum*vor die Tür,*wobei*sie*die Fische*bestätigten.","filler",3,"ja","nein"
-1200,101,".",".",".","Sven*traf*die Sonne,*nachdem*er*auf dem Mond*schrieb.","filler",3,"ja","nein"
-1201,100,".",".",".","Die Spannungen*hatten*immer mehr*zugenommen,*aber*keiner*der Männer*wollte nachgeben.","filler",3,"ja","nein"
-1202,100,".",".",".","Die Stadt*entwickelte sich*zu einer Metropole,*während*sich die Einwohnerzahl*der Dörfer*verringerte.","filler",3,"ja","nein"
-1203,101,".",".",".","Ein Applaus*öffnete*die Tasse,*wobei*die Kinder*das Kino*bewarfen.","filler",3,"ja","nein"
-1204,101,".",".",".","Sören*aß*die Wolke,*nachdem*sie*nicht ins Kino*gehen durfte.","filler",3,"ja","nein"
-1205,101,".",".",".","Keine Gurke*stand*auf dem Kind,*aber*sie*schminkte*den Hamster*mit Rosmarin.","filler",3,"ja","nein"
-1206,102,".",".",".","Die Türme*bildeten*die markante Doppelturmfassade,*während*die Angler*sehr oft*weinen mussten.","filler",3,"ja","nein"
-1207,100,".",".",".","Die Unterlagen*stammten*aus dem 16. Jahrhundert,*wobei*die Forscher*das erst jetzt*feststellen konnten.","filler",3,"ja","nein"
-1208,101,".",".",".","Die Hexe*erklärte*den Kopf,*bevor*die Kosten*viel zu hoch*waren.","filler",3,"ja","nein"
-1209,100,".",".",".","Die Welpen*hatten*flauschiges Fell,*aber*nur*bis sie*6 Monate alt*waren.","filler",3,"ja","nein"
-1210,100,".",".",".","Die Werte*mussten*stimmen,*bevor*die Transplantation*durchgeführt*werden konnte.","filler",3,"ja","nein"
-1211,102,".",".",".","Die Wohnung*eignete sich*für eine WG,*wobei*sie*den Heiratsantrag*gekündigt hat.","filler",3,"ja","nein"
-1212,100,".",".",".","Die Zukunft*machte*mir Angst,*bevor*ich*mit meinen Freunden*über meine Ängste*sprach.","filler",3,"ja","nein"
-1213,100,".",".",".","Die Zusammenarbeit*machte*keinen Sinn,*aber*der Dozent*bestand*trotzdem darauf.","filler",3,"ja","nein"
-1214,101,".",".",".","Nina*schlief*auf der Sonne,*aber*drohte*dem Topf*mit*vorgehaltener Waffe.","filler",3,"ja","nein"
-1215,101,".",".",".","Ida*kochte*die Gitarre,*während*der Jugendliche*ein Messer*gezückt hatte.","filler",3,"ja","nein"
-1216,101,".",".",".","Der Zwerg*sprach*mit dem Briefkasten,*wobei*er*ihn*auch anschrie.","filler",3,"ja","nein"
-1217,100,".",".",".","Ein Stromausfall*konnte*panische Angst*auslösen,*bevor*die Menschen*überhaupt beruhigt*werden konnten.","filler",3,"ja","nein"
-1218,101,".",".",".","Felicia*sah*selten,*aber*würzte*den Kaffee*mit Kardamom*und Zimt.","filler",3,"ja","nein"
-1219,101,".",".",".","Anne*gewann*Steine,*während*sie*so unangenehm*roch.","filler",3,"ja","nein"
-1220,100,".",".",".","Er*liebte*das Wasser*und Tauchen,*wobei*er*auch gerne*am Strand lag.","filler",3,"ja","nein"
-1221,100,".",".",".","Er*veröffentlichte*Beiträge*zur Industriepolitik,*bevor*er*sich der Agrarpolitik*widmete.","filler",3,"ja","nein"
-1222,100,".",".",".","Es*handelte sich*um eine Pilotfiliale,*während*sich die Filiale*in Berlin Mitte*schon*etabliert hatte.","filler",3,"ja","nein"
-1223,101,".",".",".","Greta*schreite*auf die Uhr,*wobei*sie*die Brille*belügte.","filler",3,"ja","nein"
-1224,100,".",".",".","Es*galt*keine Zeit*zu verlieren,*bevor*die Verwandtschaft*zum Abendessen*kam.","filler",3,"ja","nein"
-1225,101,".",".",".","Luna*lebte*sich auf den Stuhl,*während*sie*einen Hai*gesehen hatte.","filler",3,"ja","nein"
-1226,100,".",".",".","Die Geschenke*wurden*immer größer,*wobei*das*nicht immer*sinnvoll war.","filler",3,"ja","nein"
-1227,101,".",".",".","Steffi*hielt*eine Seele,*nachdem*sie*eine Reise*buchen wollte.","filler",3,"ja","nein"
-1228,102,".",".",".","Hinter den Fassaden*rührte sich*kaum etwas,*während*das Fenster*im Verlagswesen*kochte.","filler",3,"ja","nein"
-1229,100,".",".",".","Hunderte Schulen*suchten*einen Leiter,*während*die Kindergärten*zu viel Personal*hatten.","filler",3,"ja","nein"
-1230,100,".",".",".","Im Parlament*gab es*einige Wechsel,*wobei*es*dafür auch*Zeit war.","filler",3,"ja","nein"
-1231,100,".",".",".","Jeden Montag*trafen sich*die Langläufer,*wobei*sie*sich früher*jeden Dienstag*getroffen hatten.","filler",3,"ja","nein"
-1232,102,".",".",".","Jeder*kannte*Donald Trump,*aber*aß*einen Locher*zum Mittagessen.","filler",3,"ja","nein"
-1233,100,".",".",".","Jeder*zeigte sich*von der besten Seite,*wobei*das*von den Organisatoren*auch*erwartet wurde.","filler",3,"ja","nein"
-1234,100,".",".",".","Jedes Kind*hatte*mal Angst,*wobei*sich diese Angst*auch wieder*legte.","filler",3,"ja","nein"
-1235,100,".",".",".","Keiner*übernahm*die Organisation,*während*letztes Jahr*alle*den Chefposten*haben wollten.","filler",3,"ja","nein"
-1236,101,".",".",".","Carla*wusch*den Kuchen,*während*sie*nie*lernen wollte.","filler",3,"ja","nein"
-1237,101,".",".",".","Constanze*schimpfte*mit dem Grill,*nachdem*sie*an Krebs*erkrankte.","filler",3,"ja","nein"
-1238,100,".",".",".","80 Feuerwehrleute*bekämpften*die Flammen,*aber*das Feuer*ließ sich*nicht eindämmen.","filler",3,"ja","nein"
-1239,100,".",".",".","Die Nashörner*hatten*ein geringes Sehvermögen,*wobei*sie*sehr gut*riechen konnten.","filler",3,"ja","nein"
-1240,100,".",".",".","Oft*blieb*die Infektion*unbehandelt,*bevor*sie*erkannt*wurde.","filler",3,"ja","nein"
-1241,100,".",".",".","Rauchen*erhöhte*das Risiko*für Lungenkrebs,*wobei*es*auch einen Herzinfarkt*auslösen konnte.","filler",3,"ja","nein"
-1242,100,".",".",".","Sie*begrüßte*alle neuen Gesichter,*aber*sie*gab keinem*von ihnen*die Hand.","filler",3,"ja","nein"
-1243,101,".",".",".","Sie*antwortete*der Schaufel,*während*sie*noch viel Arbeit*hatte.","filler",3,"ja","nein"
-1244,101,".",".",".","Tausende*aßen*Gras,*wobei*keiner*einen Schuh*spendete.","filler",3,"ja","nein"
-1245,102,".",".",".","Viele Kranke*hatten*eine Chance*auf Heilung,*nachdem*die Außerirdischen*den Diamant*schminkten.","filler",3,"ja","nein"
-1246,100,".",".",".","Viele Restaurants*richteten*Raucherzimmer ein,*aber*sie*wollten das*nicht.","filler",3,"ja","nein"
-2001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise",3,"ja","nein"
-2002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise",3,"ja","nein"
-2003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise",3,"ja","nein"
-2004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise",3,"ja","nein"
-2005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise",3,"ja","nein"
-2006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise",3,"ja","nein"
-2007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise",3,"ja","nein"
-2008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise",3,"ja","nein"
-2009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise",3,"ja","nein"
+"ITEM","CONDITION","DIRECTIONAL","TEMPORAL","VERB","SENTENCE","TYPE","ANSWER1","ANSWER2","LIST"
+1,2,"ambiguous","durative","telic","Der Lehrer*ging*über den*Schulhof,*und zwar*zwei Minuten lang,*mit*großen Schritten.","item","ja","nein",1
+2,6,"telic","durative","telic","Der Ingenieur*ging*zur*Großbaustelle,*und zwar*zwanzig Minuten lang,*mit*höchster Konzentration.","item","ja","nein",1
+3,5,"telic","durative","atelic","Der Mann*spazierte*zum*Bahnhofsvorplatz,*und zwar*eine Minute lang,*bei*kaltem Nieselregen.","item","ja","nein",1
+4,4,"ambiguous","completive","telic","Der Rentner*ging*über den*Friedhof,*und zwar*in zwölf Minuten,*in Gedanken*versunken.","item","ja","nein",1
+5,3,"ambiguous","completive","atelic","Die Blattlaus*wanderte*über das*Blütenblatt,*und zwar*in dreißig Sekunden,*unter Beobachtung*des Forschers.","item","ja","nein",1
+6,7,"telic","completive","atelic","Der Krebs*wanderte*zum*Korallenriff,*und zwar*in einer halben Stunde,*bei*Ebbe.","item","ja","nein",1
+7,8,"telic","completive","telic","Der Troll*kletterte*zur*Brücke,*und zwar*in acht Minuten,*um den Schatz*zu verstecken.","item","ja","nein",1
+8,1,"ambiguous","durative","atelic","Der Tourist*wanderte*über die*Hochebene,*und zwar*zwei Stunden lang,*mit*großer Begeisterung.","item","ja","nein",1
+9,2,"ambiguous","durative","telic","Der Jugendliche*raste*über den*Marktplatz,*und zwar*vierzig Sekunden lang,*auf der Suche*nach seiner Freundin.","item","ja","nein",1
+10,6,"telic","durative","telic","Der Rennfahrer*raste*zur*Rennstrecke,*und zwar*sieben Minuten lang,*unter Beobachtung*der Fans.","item","ja","nein",1
+11,5,"telic","durative","atelic","Der Vertreter*schlenderte*zum*Messegelände,*und zwar*dreizehn Minuten lang,*bei*schlechtem Wetter.","item","ja","nein",1
+12,4,"ambiguous","completive","telic","Der Händler*raste*über den*Flohmarkt,*und zwar*in zehn Minuten,*um Schnäppchen*zu ergattern.","item","ja","nein",1
+13,3,"ambiguous","completive","atelic","Der Trainer*lief*über den*Sportplatz,*und zwar*in zwanzig Sekunden,*mit*voller Motivation.","item","ja","nein",1
+14,7,"telic","completive","atelic","Der Professor*lief*zum*Brechtbau,*und zwar*in fünf Minuten,*um einen Vortrag*zu halten.","item","ja","nein",1
+15,8,"telic","completive","telic","Die Ratte*rannte*zum*Schiff,*und zwar*in neun Minuten,*ohne den Kater*zu wecken.","item","ja","nein",1
+16,1,"ambiguous","durative","atelic","Der Junge*lief*über den*Spielplatz,*und zwar*drei Minuten lang,*um seinen Freund*zu finden.","item","ja","nein",1
+17,2,"ambiguous","durative","telic","Die Möwe*flog*über den*Hafen,*und zwar*sieben Minuten lang,*auf Suche*nach Futter.","item","ja","nein",1
+18,6,"telic","durative","telic","Der Kormoran*flog*zur*Insel,*und zwar*zehn Minuten lang,*bei*brütender Hitze.","item","ja","nein",1
+19,5,"telic","durative","atelic","Der Storch*segelte*zum*Sumpf,*und zwar*vierzig Minuten lang,*mit*knurrendem Magen.","item","ja","nein",1
+20,4,"ambiguous","completive","telic","Die Crew*flog*über das*Mittelmeer,*und zwar*in zwei Stunden,*bei*Seenebel.","item","ja","nein",1
+21,3,"ambiguous","completive","atelic","Der Cowboy*ritt*über die*Prärie,*und zwar*in fünf Tagen,*in*glühender Hitze.","item","ja","nein",1
+22,7,"telic","completive","atelic","Der Offizier*ritt*zum*Schlachtfeld,*und zwar*in drei Stunden,*in*eisiger Kälte.","item","ja","nein",1
+23,8,"telic","completive","telic","Der Bauer*fuhr*zum*Stoppelfeld,*und zwar*in fünfzehn Minuten,*bei*strahlendem Sonnenschein.","item","ja","nein",1
+24,1,"ambiguous","durative","atelic","Der Knecht*ritt*über die*Weide,*und zwar*drei Minuten lang,*auf Befehl*seines Herrn.","item","ja","nein",1
+25,2,"ambiguous","durative","telic","Der Gefreite*marschierte*über den*Kasernenplatz,*und zwar*sieben Minuten lang,*auf Befehl*vom Leutnant.","item","ja","nein",1
+26,6,"telic","durative","telic","Der Pfadfinder*marschierte*zum*Zeltplatz,*und zwar*fünf Minuten lang,*unter der Anleitung*des Rangers.","item","ja","nein",1
+27,5,"telic","durative","atelic","Der Ehemann*schlich*zum*Hinterhof,*und zwar*zwei Minuten lang,*unter der Beobachtung*seiner Frau.","item","ja","nein",1
+28,4,"ambiguous","completive","telic","Der Soldat*marschierte*über den*Festplatz,*und zwar*in zwölf Minuten,*mit*konzentriertem Blick.","item","ja","nein",1
+29,3,"ambiguous","completive","atelic","Das Kind*radelte*über den*Tunnel,*und zwar*in drei Minuten,*unter der Anleitung*der Sportlehrerin.","item","ja","nein",1
+30,7,"telic","completive","atelic","Der Clown*radelte*über zur*Arena,*und zwar*in vier Minuten,*als Teil*seines Auftritts.","item","ja","nein",1
+31,8,"telic","completive","telic","Der Schauspieler*kroch*zur*Bühne,*und zwar*in vier Minuten,*unter der Anleitung*des Regisseurs.","item","ja","nein",1
+32,1,"ambiguous","durative","atelic","Der Rekrut*radelte*über das*Gelände,*und zwar*eine halbe Stunde lang,*in*klirrender Kälte.","item","ja","nein",1
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","ja","nein",1
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","ja","nein",1
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","ja","nein",1
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","ja","nein",1
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","ja","nein",1
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","ja","nein",1
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","ja","nein",1
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","ja","nein",1
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","ja","nein",1
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","ja","nein",1
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","ja","nein",1
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","ja","nein",1
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","ja","nein",1
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","ja","nein",1
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","ja","nein",1
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","ja","nein",1
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","ja","nein",1
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","ja","nein",1
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","ja","nein",1
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","ja","nein",1
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","ja","nein",1
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","ja","nein",1
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","ja","nein",1
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","ja","nein",1
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","ja","nein",1
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","ja","nein",1
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","ja","nein",1
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","ja","nein",1
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","ja","nein",1
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","ja","nein",1
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","ja","nein",1
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","ja","nein",1
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","ja","nein",1
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","ja","nein",1
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","ja","nein",1
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","ja","nein",1
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","ja","nein",1
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","ja","nein",1
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","ja","nein",1
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","ja","nein",1
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","ja","nein",1
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","ja","nein",1
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","ja","nein",1
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","ja","nein",1
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","ja","nein",1
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","ja","nein",1
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","ja","nein",1
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","ja","nein",1
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","ja","nein",1
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","ja","nein",1
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","ja","nein",1
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","ja","nein",1
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","ja","nein",1
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","ja","nein",1
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","ja","nein",1
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","ja","nein",1
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","ja","nein",1
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","ja","nein",1
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","ja","nein",1
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","ja","nein",1
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","ja","nein",1
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","ja","nein",1
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","ja","nein",1
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","ja","nein",1
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","ja","nein",1
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","ja","nein",1
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","ja","nein",1
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","ja","nein",1
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","ja","nein",1
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","ja","nein",1
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","ja","nein",1
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","ja","nein",1
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","ja","nein",1
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","ja","nein",1
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","ja","nein",1
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","ja","nein",1
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","ja","nein",1
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","ja","nein",1
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","ja","nein",1
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","ja","nein",1
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","ja","nein",1
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","ja","nein",1
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","ja","nein",1
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","ja","nein",1
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","ja","nein",1
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","ja","nein",1
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","ja","nein",1
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","ja","nein",1
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","ja","nein",1
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","ja","nein",1
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","ja","nein",1
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","ja","nein",1
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","ja","nein",1
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","ja","nein",1
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","ja","nein",1
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","ja","nein",1
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","ja","nein",1
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","ja","nein",1
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","ja","nein",1
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","ja","nein",1
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","ja","nein",1
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","ja","nein",1
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","ja","nein",1
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","ja","nein",1
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","ja","nein",1
+1,1,"ambiguous","durative","atelic","Der Lehrer*spazierte*über den*Schulhof,*und zwar*zwei Minuten lang,*mit*großen Schritten.","item","ja","nein",2
+2,2,"ambiguous","durative","telic","Der Ingenieur*ging*über die*Großbaustelle,*und zwar*zwanzig Minuten lang,*mit*höchster Konzentration.","item","ja","nein",2
+3,6,"telic","durative","telic","Der Mann*ging*zum*Bahnhofsvorplatz,*und zwar*eine Minute lang,*bei*kaltem Nieselregen.","item","ja","nein",2
+4,5,"telic","durative","atelic","Der Rentner*spazierte*zum*Friedhof,*und zwar*zwölf Minuten lang,*in Gedanken*versunken.","item","ja","nein",2
+5,4,"ambiguous","completive","telic","Die Blattlaus*kletterte*über das*Blütenblatt,*und zwar*in dreißig Sekunden,*unter Beobachtung*des Forschers.","item","ja","nein",2
+6,3,"ambiguous","completive","atelic","Der Krebs*wanderte*über das*Korallenriff,*und zwar*in einer halben Stunde,*bei*Ebbe.","item","ja","nein",2
+7,7,"telic","completive","atelic","Der Troll*wanderte*zur*Brücke,*und zwar*in acht Minuten,*um den Schatz*zu verstecken.","item","ja","nein",2
+8,8,"telic","completive","telic","Der Tourist*kletterte*zur*Hochebene,*und zwar*in zwei Stunden,*mit*großer Begeisterung.","item","ja","nein",2
+9,1,"ambiguous","durative","atelic","Der Jugendliche*schlenderte*über den*Marktplatz,*und zwar*vierzig Sekunden lang,*auf der Suche*nach seiner Freundin.","item","ja","nein",2
+10,2,"ambiguous","durative","telic","Der Rennfahrer*raste*über die*Rennstrecke,*und zwar*sieben Minuten lang,*unter Beobachtung*der Fans.","item","ja","nein",2
+11,6,"telic","durative","telic","Der Vertreter*raste*zum*Messegelände,*und zwar*dreizehn Minuten lang,*bei*schlechtem Wetter.","item","ja","nein",2
+12,5,"telic","durative","atelic","Der Händler*schlenderte*zum*Flohmarkt,*und zwar*zehn Minuten lang,*um Schnäppchen*zu ergattern.","item","ja","nein",2
+13,4,"ambiguous","completive","telic","Der Trainer*rannte*über den*Sportplatz,*und zwar*in zwanzig Sekunden,*mit*voller Motivation.","item","ja","nein",2
+14,3,"ambiguous","completive","atelic","Der Professor*lief*über den*Brechtbau,*und zwar*in fünf Minuten,*um einen Vortrag*zu halten.","item","ja","nein",2
+15,7,"telic","completive","atelic","Die Ratte*lief*zum*Schiff,*und zwar*in neun Minuten,*ohne den Kater*zu wecken.","item","ja","nein",2
+16,8,"telic","completive","telic","Der Junge*rannte*zum*Spielplatz,*und zwar*in drei Minuten,*um seinen Freund*zu finden.","item","ja","nein",2
+17,1,"ambiguous","durative","atelic","Die Möwe*segelte*über den*Hafen,*und zwar*sieben Minuten lang,*auf Suche*nach Futter.","item","ja","nein",2
+18,2,"ambiguous","durative","telic","Der Kormoran*flog*über die*Insel,*und zwar*zehn Minuten lang,*bei*brütender Hitze.","item","ja","nein",2
+19,6,"telic","durative","telic","Der Storch*flog*zum*Sumpf,*und zwar*vierzig Minuten lang,*mit*knurrendem Magen.","item","ja","nein",2
+20,5,"telic","durative","atelic","Die Crew*segelte*zum*Mittelmeer,*und zwar*zwei Stunden lang,*bei*Seenebel.","item","ja","nein",2
+21,4,"ambiguous","completive","telic","Der Cowboy*fuhr*über die*Prärie,*und zwar*in fünf Tagen,*in*glühender Hitze.","item","ja","nein",2
+22,3,"ambiguous","completive","atelic","Der Offizier*ritt*über das*Schlachtfeld,*und zwar*in drei Stunden,*in*eisiger Kälte.","item","ja","nein",2
+23,7,"telic","completive","atelic","Der Bauer*ritt*zum*Stoppelfeld,*und zwar*in fünfzehn Minuten,*bei*strahlendem Sonnenschein.","item","ja","nein",2
+24,8,"telic","completive","telic","Der Knecht*fuhr*zur*Weide,*und zwar*in drei Minuten,*auf Befehl*seines Herrn.","item","ja","nein",2
+25,1,"ambiguous","durative","atelic","Der Gefreite*schlich*über den*Kasernenplatz,*und zwar*sieben Minuten lang,*auf Befehl*vom Leutnant.","item","ja","nein",2
+26,2,"ambiguous","durative","telic","Der Pfadfinder*marschierte*über den*Zeltplatz,*und zwar*fünf Minuten lang,*unter der Anleitung*des Rangers.","item","ja","nein",2
+27,6,"telic","durative","telic","Der Ehemann*marschierte*zum*Hinterhof,*und zwar*zwei Minuten lang,*unter der Beobachtung*seiner Frau.","item","ja","nein",2
+28,5,"telic","durative","atelic","Der Soldat*schlich*zum*Festplatz,*und zwar*zwölf Minuten lang,*mit*konzentriertem Blick.","item","ja","nein",2
+29,4,"ambiguous","completive","telic","Das Kind*kroch*über den*Tunnel,*und zwar*in drei Minuten,*unter der Anleitung*der Sportlehrerin.","item","ja","nein",2
+30,3,"ambiguous","completive","atelic","Der Clown*radelte*über die*Arena,*und zwar*in vier Minuten,*als Teil*seines Auftritts.","item","ja","nein",2
+31,7,"telic","completive","atelic","Der Schauspieler*radelte*zur*Bühne,*und zwar*in vier Minuten,*unter der Anleitung*des Regisseurs.","item","ja","nein",2
+32,8,"telic","completive","telic","Der Rekrut*kroch*zum*Gelände,*und zwar*in einer halben Stunde,*in*klirrender Kälte.","item","ja","nein",2
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","ja","nein",2
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","ja","nein",2
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","ja","nein",2
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","ja","nein",2
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","ja","nein",2
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","ja","nein",2
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","ja","nein",2
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","ja","nein",2
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","ja","nein",2
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","ja","nein",2
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","ja","nein",2
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","ja","nein",2
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","ja","nein",2
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","ja","nein",2
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","ja","nein",2
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","ja","nein",2
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","ja","nein",2
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","ja","nein",2
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","ja","nein",2
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","ja","nein",2
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","ja","nein",2
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","ja","nein",2
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","ja","nein",2
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","ja","nein",2
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","ja","nein",2
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","ja","nein",2
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","ja","nein",2
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","ja","nein",2
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","ja","nein",2
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","ja","nein",2
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","ja","nein",2
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","ja","nein",2
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","ja","nein",2
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","ja","nein",2
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","ja","nein",2
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","ja","nein",2
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","ja","nein",2
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","ja","nein",2
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","ja","nein",2
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","ja","nein",2
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","ja","nein",2
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","ja","nein",2
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","ja","nein",2
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","ja","nein",2
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","ja","nein",2
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","ja","nein",2
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","ja","nein",2
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","ja","nein",2
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","ja","nein",2
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","ja","nein",2
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","ja","nein",2
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","ja","nein",2
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","ja","nein",2
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","ja","nein",2
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","ja","nein",2
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","ja","nein",2
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","ja","nein",2
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","ja","nein",2
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","ja","nein",2
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","ja","nein",2
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","ja","nein",2
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","ja","nein",2
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","ja","nein",2
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","ja","nein",2
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","ja","nein",2
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","ja","nein",2
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","ja","nein",2
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","ja","nein",2
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","ja","nein",2
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","ja","nein",2
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","ja","nein",2
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","ja","nein",2
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","ja","nein",2
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","ja","nein",2
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","ja","nein",2
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","ja","nein",2
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","ja","nein",2
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","ja","nein",2
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","ja","nein",2
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","ja","nein",2
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","ja","nein",2
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","ja","nein",2
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","ja","nein",2
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","ja","nein",2
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","ja","nein",2
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","ja","nein",2
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","ja","nein",2
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","ja","nein",2
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","ja","nein",2
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","ja","nein",2
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","ja","nein",2
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","ja","nein",2
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","ja","nein",2
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","ja","nein",2
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","ja","nein",2
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","ja","nein",2
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","ja","nein",2
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","ja","nein",2
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","ja","nein",2
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","ja","nein",2
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","ja","nein",2
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","ja","nein",2
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","ja","nein",2
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","ja","nein",2
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","ja","nein",2
+1,8,"telic","completive","telic","Der Lehrer*ging*zum*Schulhof,*und zwar*in zwei Minuten,*mit*großen Schritten.","item","ja","nein",3
+2,1,"ambiguous","durative","atelic","Der Ingenieur*spazierte*über die*Großbaustelle,*und zwar*zwanzig Minuten lang,*mit*höchster Konzentration.","item","ja","nein",3
+3,2,"ambiguous","durative","telic","Der Mann*ging*über den*Bahnhofsvorplatz,*und zwar*eine Minute lang,*bei*kaltem Nieselregen.","item","ja","nein",3
+4,6,"telic","durative","telic","Der Rentner*ging*zum*Friedhof,*und zwar*zwölf Minuten lang,*in Gedanken*versunken.","item","ja","nein",3
+5,5,"telic","durative","atelic","Die Blattlaus*wanderte*zum*Blütenblatt,*und zwar*dreißig Sekunden lang,*unter Beobachtung*des Forschers.","item","ja","nein",3
+6,4,"ambiguous","completive","telic","Der Krebs*kletterte*über das*Korallenriff,*und zwar*in einer halben Stunde,*bei*Ebbe.","item","ja","nein",3
+7,3,"ambiguous","completive","atelic","Der Troll*wanderte*über die*Brücke,*und zwar*in acht Minuten,*um den Schatz*zu verstecken.","item","ja","nein",3
+8,7,"telic","completive","atelic","Der Tourist*wanderte*zur*Hochebene,*und zwar*in zwei Stunden,*mit*großer Begeisterung.","item","ja","nein",3
+9,8,"telic","completive","telic","Der Jugendliche*raste*zum*Marktplatz,*und zwar*in vierzig Sekunden,*auf der Suche*nach seiner Freundin.","item","ja","nein",3
+10,1,"ambiguous","durative","atelic","Der Rennfahrer*schlenderte*über die*Rennstrecke,*und zwar*sieben Minuten lang,*unter Beobachtung*der Fans.","item","ja","nein",3
+11,2,"ambiguous","durative","telic","Der Vertreter*raste*über das*Messegelände,*und zwar*dreizehn Minuten lang,*bei*schlechtem Wetter.","item","ja","nein",3
+12,6,"telic","durative","telic","Der Händler*raste*zum*Flohmarkt,*und zwar*zehn Minuten lang,*um Schnäppchen*zu ergattern.","item","ja","nein",3
+13,5,"telic","durative","atelic","Der Trainer*lief*zum*Sportplatz,*und zwar*zwanzig Sekunden lang,*mit*voller Motivation.","item","ja","nein",3
+14,4,"ambiguous","completive","telic","Der Professor*rannte*über den*Brechtbau,*und zwar*in fünf Minuten,*um einen Vortrag*zu halten.","item","ja","nein",3
+15,3,"ambiguous","completive","atelic","Die Ratte*lief*über das*Schiff,*und zwar*in neun Minuten,*ohne den Kater*zu wecken.","item","ja","nein",3
+16,7,"telic","completive","atelic","Der Junge*lief*zum*Spielplatz,*und zwar*in drei Minuten,*um seinen Freund*zu finden.","item","ja","nein",3
+17,8,"telic","completive","telic","Die Möwe*flog*zum*Hafen,*und zwar*in sieben Minuten,*auf Suche*nach Futter.","item","ja","nein",3
+18,1,"ambiguous","durative","atelic","Der Kormoran*segelte*über die*Insel,*und zwar*zehn Minuten lang,*bei*brütender Hitze.","item","ja","nein",3
+19,2,"ambiguous","durative","telic","Der Storch*flog*über den*Sumpf,*und zwar*vierzig Minuten lang,*mit*knurrendem Magen.","item","ja","nein",3
+20,6,"telic","durative","telic","Die Crew*flog*zum*Mittelmeer,*und zwar*zwei Stunden lang,*bei*Seenebel.","item","ja","nein",3
+21,5,"telic","durative","atelic","Der Cowboy*ritt*zur*Prärie,*und zwar*fünf Tage lang,*in*glühender Hitze.","item","ja","nein",3
+22,4,"ambiguous","completive","telic","Der Offizier*fuhr*über das*Schlachtfeld,*und zwar*in drei Stunden,*in*eisiger Kälte.","item","ja","nein",3
+23,3,"ambiguous","completive","atelic","Der Bauer*ritt*über das*Stoppelfeld,*und zwar*in fünfzehn Minuten,*bei*strahlendem Sonnenschein.","item","ja","nein",3
+24,7,"telic","completive","atelic","Der Knecht*ritt*zur*Weide,*und zwar*in drei Minuten,*auf Befehl*seines Herrn.","item","ja","nein",3
+25,8,"telic","completive","telic","Der Gefreite*marschierte*zum*Kasernenplatz,*und zwar*in sieben Minuten,*auf Befehl*vom Leutnant.","item","ja","nein",3
+26,1,"ambiguous","durative","atelic","Der Pfadfinder*schlich*über den*Zeltplatz,*und zwar*fünf Minuten lang,*unter der Anleitung*des Rangers.","item","ja","nein",3
+27,2,"ambiguous","durative","telic","Der Ehemann*marschierte*über den*Hinterhof,*und zwar*zwei Minuten lang,*unter der Beobachtung*seiner Frau.","item","ja","nein",3
+28,6,"telic","durative","telic","Der Soldat*marschierte*zum*Festplatz,*und zwar*zwölf Minuten lang,*mit*konzentriertem Blick.","item","ja","nein",3
+29,5,"telic","durative","atelic","Das Kind*radelte*zum*Tunnel,*und zwar*drei Minuten lang,*unter der Anleitung*der Sportlehrerin.","item","ja","nein",3
+30,4,"ambiguous","completive","telic","Der Clown*kroch*über die*Arena,*und zwar*in vier Minuten,*als Teil*seines Auftritts.","item","ja","nein",3
+31,3,"ambiguous","completive","atelic","Der Schauspieler*radelte*über die*Bühne,*und zwar*in vier Minuten,*unter der Anleitung*des Regisseurs.","item","ja","nein",3
+32,7,"telic","completive","atelic","Der Rekrut*radelte*zum*Gelände,*und zwar*in einer halben Stunde,*in*klirrender Kälte.","item","ja","nein",3
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","ja","nein",3
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","ja","nein",3
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","ja","nein",3
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","ja","nein",3
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","ja","nein",3
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","ja","nein",3
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","ja","nein",3
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","ja","nein",3
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","ja","nein",3
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","ja","nein",3
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","ja","nein",3
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","ja","nein",3
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","ja","nein",3
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","ja","nein",3
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","ja","nein",3
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","ja","nein",3
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","ja","nein",3
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","ja","nein",3
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","ja","nein",3
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","ja","nein",3
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","ja","nein",3
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","ja","nein",3
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","ja","nein",3
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","ja","nein",3
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","ja","nein",3
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","ja","nein",3
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","ja","nein",3
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","ja","nein",3
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","ja","nein",3
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","ja","nein",3
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","ja","nein",3
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","ja","nein",3
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","ja","nein",3
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","ja","nein",3
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","ja","nein",3
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","ja","nein",3
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","ja","nein",3
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","ja","nein",3
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","ja","nein",3
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","ja","nein",3
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","ja","nein",3
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","ja","nein",3
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","ja","nein",3
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","ja","nein",3
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","ja","nein",3
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","ja","nein",3
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","ja","nein",3
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","ja","nein",3
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","ja","nein",3
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","ja","nein",3
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","ja","nein",3
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","ja","nein",3
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","ja","nein",3
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","ja","nein",3
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","ja","nein",3
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","ja","nein",3
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","ja","nein",3
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","ja","nein",3
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","ja","nein",3
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","ja","nein",3
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","ja","nein",3
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","ja","nein",3
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","ja","nein",3
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","ja","nein",3
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","ja","nein",3
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","ja","nein",3
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","ja","nein",3
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","ja","nein",3
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","ja","nein",3
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","ja","nein",3
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","ja","nein",3
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","ja","nein",3
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","ja","nein",3
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","ja","nein",3
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","ja","nein",3
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","ja","nein",3
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","ja","nein",3
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","ja","nein",3
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","ja","nein",3
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","ja","nein",3
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","ja","nein",3
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","ja","nein",3
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","ja","nein",3
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","ja","nein",3
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","ja","nein",3
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","ja","nein",3
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","ja","nein",3
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","ja","nein",3
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","ja","nein",3
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","ja","nein",3
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","ja","nein",3
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","ja","nein",3
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","ja","nein",3
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","ja","nein",3
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","ja","nein",3
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","ja","nein",3
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","ja","nein",3
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","ja","nein",3
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","ja","nein",3
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","ja","nein",3
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","ja","nein",3
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","ja","nein",3
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","ja","nein",3
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","ja","nein",3
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","ja","nein",3
+1,7,"telic","completive","atelic","Der Lehrer*spazierte*zum*Schulhof,*und zwar*in zwei Minuten,*mit*großen Schritten.","item","ja","nein",4
+2,8,"telic","completive","telic","Der Ingenieur*ging*zur*Großbaustelle,*und zwar*in zwanzig Minuten,*mit*höchster Konzentration.","item","ja","nein",4
+3,1,"ambiguous","durative","atelic","Der Mann*spazierte*über den*Bahnhofsvorplatz,*und zwar*eine Minute lang,*bei*kaltem Nieselregen.","item","ja","nein",4
+4,2,"ambiguous","durative","telic","Der Rentner*ging*über den*Friedhof,*und zwar*zwölf Minuten lang,*in Gedanken*versunken.","item","ja","nein",4
+5,6,"telic","durative","telic","Die Blattlaus*kletterte*zum*Blütenblatt,*und zwar*dreißig Sekunden lang,*unter Beobachtung*des Forschers.","item","ja","nein",4
+6,5,"telic","durative","atelic","Der Krebs*wanderte*zum*Korallenriff,*und zwar*eine halbe Stunde lang,*bei*Ebbe.","item","ja","nein",4
+7,4,"ambiguous","completive","telic","Der Troll*kletterte*über die*Brücke,*und zwar*in acht Minuten,*um den Schatz*zu verstecken.","item","ja","nein",4
+8,3,"ambiguous","completive","atelic","Der Tourist*wanderte*über die*Hochebene,*und zwar*in zwei Stunden,*mit*großer Begeisterung.","item","ja","nein",4
+9,7,"telic","completive","atelic","Der Jugendliche*schlenderte*zum*Marktplatz,*und zwar*in vierzig Sekunden,*auf der Suche*nach seiner Freundin.","item","ja","nein",4
+10,8,"telic","completive","telic","Der Rennfahrer*raste*zur*Rennstrecke,*und zwar*in sieben Minuten,*unter Beobachtung*der Fans.","item","ja","nein",4
+11,1,"ambiguous","durative","atelic","Der Vertreter*schlenderte*über das*Messegelände,*und zwar*dreizehn Minuten lang,*bei*schlechtem Wetter.","item","ja","nein",4
+12,2,"ambiguous","durative","telic","Der Händler*raste*über den*Flohmarkt,*und zwar*zehn Minuten lang,*um Schnäppchen*zu ergattern.","item","ja","nein",4
+13,6,"telic","durative","telic","Der Trainer*rannte*zum*Sportplatz,*und zwar*zwanzig Sekunden lang,*mit*voller Motivation.","item","ja","nein",4
+14,5,"telic","durative","atelic","Der Professor*lief*zum*Brechtbau,*und zwar*fünf Minuten lang,*um einen Vortrag*zu halten.","item","ja","nein",4
+15,4,"ambiguous","completive","telic","Die Ratte*rannte*über das*Schiff,*und zwar*in neun Minuten,*ohne den Kater*zu wecken.","item","ja","nein",4
+16,3,"ambiguous","completive","atelic","Der Junge*lief*über den*Spielplatz,*und zwar*in drei Minuten,*um seinen Freund*zu finden.","item","ja","nein",4
+17,7,"telic","completive","atelic","Die Möwe*segelte*zum*Hafen,*und zwar*in sieben Minuten,*auf Suche*nach Futter.","item","ja","nein",4
+18,8,"telic","completive","telic","Der Kormoran*flog*zur*Insel,*und zwar*in zehn Minuten,*bei*brütender Hitze.","item","ja","nein",4
+19,1,"ambiguous","durative","atelic","Der Storch*segelte*über den*Sumpf,*und zwar*vierzig Minuten lang,*mit*knurrendem Magen.","item","ja","nein",4
+20,2,"ambiguous","durative","telic","Die Crew*flog*über das*Mittelmeer,*und zwar*zwei Stunden lang,*bei*Seenebel.","item","ja","nein",4
+21,6,"telic","durative","telic","Der Cowboy*fuhr*zur*Prärie,*und zwar*fünf Tage lang,*in*glühender Hitze.","item","ja","nein",4
+22,5,"telic","durative","atelic","Der Offizier*ritt*zum*Schlachtfeld,*und zwar*drei Stunden lang,*in*eisiger Kälte.","item","ja","nein",4
+23,4,"ambiguous","completive","telic","Der Bauer*fuhr*über das*Stoppelfeld,*und zwar*in fünfzehn Minuten,*bei*strahlendem Sonnenschein.","item","ja","nein",4
+24,3,"ambiguous","completive","atelic","Der Knecht*ritt*über die*Weide,*und zwar*in drei Minuten,*auf Befehl*seines Herrn.","item","ja","nein",4
+25,7,"telic","completive","atelic","Der Gefreite*schlich*zum*Kasernenplatz,*und zwar*in sieben Minuten,*auf Befehl*vom Leutnant.","item","ja","nein",4
+26,8,"telic","completive","telic","Der Pfadfinder*marschierte*zum*Zeltplatz,*und zwar*in fünf Minuten,*unter der Anleitung*des Rangers.","item","ja","nein",4
+27,1,"ambiguous","durative","atelic","Der Ehemann*schlich*über den*Hinterhof,*und zwar*zwei Minuten lang,*unter der Beobachtung*seiner Frau.","item","ja","nein",4
+28,2,"ambiguous","durative","telic","Der Soldat*marschierte*über den*Festplatz,*und zwar*zwölf Minuten lang,*mit*konzentriertem Blick.","item","ja","nein",4
+29,6,"telic","durative","telic","Das Kind*kroch*zum*Tunnel,*und zwar*drei Minuten lang,*unter der Anleitung*der Sportlehrerin.","item","ja","nein",4
+30,5,"telic","durative","atelic","Der Clown*radelte*über zur*Arena,*und zwar*vier Minuten lang,*als Teil*seines Auftritts.","item","ja","nein",4
+31,4,"ambiguous","completive","telic","Der Schauspieler*kroch*über die*Bühne,*und zwar*in vier Minuten,*unter der Anleitung*des Regisseurs.","item","ja","nein",4
+32,3,"ambiguous","completive","atelic","Der Rekrut*radelte*über das*Gelände,*und zwar*in einer halben Stunde,*in*klirrender Kälte.","item","ja","nein",4
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","ja","nein",4
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","ja","nein",4
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","ja","nein",4
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","ja","nein",4
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","ja","nein",4
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","ja","nein",4
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","ja","nein",4
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","ja","nein",4
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","ja","nein",4
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","ja","nein",4
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","ja","nein",4
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","ja","nein",4
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","ja","nein",4
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","ja","nein",4
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","ja","nein",4
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","ja","nein",4
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","ja","nein",4
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","ja","nein",4
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","ja","nein",4
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","ja","nein",4
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","ja","nein",4
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","ja","nein",4
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","ja","nein",4
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","ja","nein",4
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","ja","nein",4
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","ja","nein",4
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","ja","nein",4
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","ja","nein",4
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","ja","nein",4
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","ja","nein",4
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","ja","nein",4
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","ja","nein",4
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","ja","nein",4
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","ja","nein",4
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","ja","nein",4
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","ja","nein",4
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","ja","nein",4
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","ja","nein",4
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","ja","nein",4
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","ja","nein",4
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","ja","nein",4
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","ja","nein",4
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","ja","nein",4
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","ja","nein",4
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","ja","nein",4
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","ja","nein",4
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","ja","nein",4
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","ja","nein",4
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","ja","nein",4
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","ja","nein",4
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","ja","nein",4
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","ja","nein",4
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","ja","nein",4
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","ja","nein",4
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","ja","nein",4
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","ja","nein",4
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","ja","nein",4
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","ja","nein",4
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","ja","nein",4
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","ja","nein",4
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","ja","nein",4
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","ja","nein",4
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","ja","nein",4
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","ja","nein",4
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","ja","nein",4
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","ja","nein",4
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","ja","nein",4
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","ja","nein",4
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","ja","nein",4
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","ja","nein",4
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","ja","nein",4
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","ja","nein",4
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","ja","nein",4
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","ja","nein",4
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","ja","nein",4
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","ja","nein",4
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","ja","nein",4
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","ja","nein",4
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","ja","nein",4
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","ja","nein",4
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","ja","nein",4
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","ja","nein",4
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","ja","nein",4
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","ja","nein",4
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","ja","nein",4
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","ja","nein",4
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","ja","nein",4
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","ja","nein",4
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","ja","nein",4
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","ja","nein",4
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","ja","nein",4
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","ja","nein",4
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","ja","nein",4
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","ja","nein",4
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","ja","nein",4
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","ja","nein",4
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","ja","nein",4
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","ja","nein",4
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","ja","nein",4
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","ja","nein",4
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","ja","nein",4
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","ja","nein",4
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","ja","nein",4
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","ja","nein",4
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","ja","nein",4
+1,3,"ambiguous","completive","atelic","Der Lehrer*spazierte*über den*Schulhof,*und zwar*in zwei Minuten,*mit*großen Schritten.","item","nein","ja",5
+2,7,"telic","completive","atelic","Der Ingenieur*spazierte*zur*Großbaustelle,*und zwar*in zwanzig Minuten,*mit*höchster Konzentration.","item","nein","ja",5
+3,8,"telic","completive","telic","Der Mann*ging*zum*Bahnhofsvorplatz,*und zwar*in eine Minute,*bei*kaltem Nieselregen.","item","nein","ja",5
+4,1,"ambiguous","durative","atelic","Der Rentner*spazierte*über den*Friedhof,*und zwar*zwölf Minuten lang,*in Gedanken*versunken.","item","nein","ja",5
+5,2,"ambiguous","durative","telic","Die Blattlaus*kletterte*über das*Blütenblatt,*und zwar*dreißig Sekunden lang,*unter Beobachtung*des Forschers.","item","nein","ja",5
+6,6,"telic","durative","telic","Der Krebs*kletterte*zum*Korallenriff,*und zwar*eine halbe Stunde lang,*bei*Ebbe.","item","nein","ja",5
+7,5,"telic","durative","atelic","Der Troll*wanderte*zur*Brücke,*und zwar*acht Minuten lang,*um den Schatz*zu verstecken.","item","nein","ja",5
+8,4,"ambiguous","completive","telic","Der Tourist*kletterte*über die*Hochebene,*und zwar*in zwei Stunden,*mit*großer Begeisterung.","item","nein","ja",5
+9,3,"ambiguous","completive","atelic","Der Jugendliche*schlenderte*über den*Marktplatz,*und zwar*in vierzig Sekunden,*auf der Suche*nach seiner Freundin.","item","nein","ja",5
+10,7,"telic","completive","atelic","Der Rennfahrer*schlenderte*zur*Rennstrecke,*und zwar*in sieben Minuten,*unter Beobachtung*der Fans.","item","nein","ja",5
+11,8,"telic","completive","telic","Der Vertreter*raste*zum*Messegelände,*und zwar*in dreizehn Minuten,*bei*schlechtem Wetter.","item","nein","ja",5
+12,1,"ambiguous","durative","atelic","Der Händler*schlenderte*über den*Flohmarkt,*und zwar*zehn Minuten lang,*um Schnäppchen*zu ergattern.","item","nein","ja",5
+13,2,"ambiguous","durative","telic","Der Trainer*rannte*über den*Sportplatz,*und zwar*zwanzig Sekunden lang,*mit*voller Motivation.","item","nein","ja",5
+14,6,"telic","durative","telic","Der Professor*rannte*zum*Brechtbau,*und zwar*fünf Minuten lang,*um einen Vortrag*zu halten.","item","nein","ja",5
+15,5,"telic","durative","atelic","Die Ratte*lief*zum*Schiff,*und zwar*neun Minuten lang,*ohne den Kater*zu wecken.","item","nein","ja",5
+16,4,"ambiguous","completive","telic","Der Junge*rannte*über den*Spielplatz,*und zwar*in drei Minuten,*um seinen Freund*zu finden.","item","nein","ja",5
+17,3,"ambiguous","completive","atelic","Die Möwe*segelte*über den*Hafen,*und zwar*in sieben Minuten,*auf Suche*nach Futter.","item","nein","ja",5
+18,7,"telic","completive","atelic","Der Kormoran*segelte*zur*Insel,*und zwar*in zehn Minuten,*bei*brütender Hitze.","item","nein","ja",5
+19,8,"telic","completive","telic","Der Storch*flog*zum*Sumpf,*und zwar*in vierzig Minuten,*mit*knurrendem Magen.","item","nein","ja",5
+20,1,"ambiguous","durative","atelic","Die Crew*segelte*über das*Mittelmeer,*und zwar*zwei Stunden lang,*bei*Seenebel.","item","nein","ja",5
+21,2,"ambiguous","durative","telic","Der Cowboy*fuhr*über die*Prärie,*und zwar*fünf Tage lang,*in*glühender Hitze.","item","nein","ja",5
+22,6,"telic","durative","telic","Der Offizier*fuhr*zum*Schlachtfeld,*und zwar*drei Stunden lang,*in*eisiger Kälte.","item","nein","ja",5
+23,5,"telic","durative","atelic","Der Bauer*ritt*zum*Stoppelfeld,*und zwar*fünfzehn Minuten lang,*bei*strahlendem Sonnenschein.","item","nein","ja",5
+24,4,"ambiguous","completive","telic","Der Knecht*fuhr*über die*Weide,*und zwar*in drei Minuten,*auf Befehl*seines Herrn.","item","nein","ja",5
+25,3,"ambiguous","completive","atelic","Der Gefreite*schlich*über den*Kasernenplatz,*und zwar*in sieben Minuten,*auf Befehl*vom Leutnant.","item","nein","ja",5
+26,7,"telic","completive","atelic","Der Pfadfinder*schlich*zum*Zeltplatz,*und zwar*in fünf Minuten,*unter der Anleitung*des Rangers.","item","nein","ja",5
+27,8,"telic","completive","telic","Der Ehemann*marschierte*zum*Hinterhof,*und zwar*in zwei Minuten,*unter der Beobachtung*seiner Frau.","item","nein","ja",5
+28,1,"ambiguous","durative","atelic","Der Soldat*schlich*über den*Festplatz,*und zwar*zwölf Minuten lang,*mit*konzentriertem Blick.","item","nein","ja",5
+29,2,"ambiguous","durative","telic","Das Kind*kroch*über den*Tunnel,*und zwar*drei Minuten lang,*unter der Anleitung*der Sportlehrerin.","item","nein","ja",5
+30,6,"telic","durative","telic","Der Clown*kroch*zur*Arena,*und zwar*vier Minuten lang,*als Teil*seines Auftritts.","item","nein","ja",5
+31,5,"telic","durative","atelic","Der Schauspieler*radelte*zur*Bühne,*und zwar*vier Minuten lang,*unter der Anleitung*des Regisseurs.","item","nein","ja",5
+32,4,"ambiguous","completive","telic","Der Rekrut*kroch*über das*Gelände,*und zwar*in einer halben Stunde,*in*klirrender Kälte.","item","nein","ja",5
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","nein","ja",5
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","nein","ja",5
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","nein","ja",5
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","nein","ja",5
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","nein","ja",5
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","nein","ja",5
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","nein","ja",5
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","nein","ja",5
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","nein","ja",5
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","nein","ja",5
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","nein","ja",5
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","nein","ja",5
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","nein","ja",5
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","nein","ja",5
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","nein","ja",5
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","nein","ja",5
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","nein","ja",5
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","nein","ja",5
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","nein","ja",5
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","nein","ja",5
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","nein","ja",5
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","nein","ja",5
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","nein","ja",5
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","nein","ja",5
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","nein","ja",5
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","nein","ja",5
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","nein","ja",5
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","nein","ja",5
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","nein","ja",5
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","nein","ja",5
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","nein","ja",5
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","nein","ja",5
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","nein","ja",5
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","nein","ja",5
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","nein","ja",5
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","nein","ja",5
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","nein","ja",5
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","nein","ja",5
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","nein","ja",5
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","nein","ja",5
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","nein","ja",5
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","nein","ja",5
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","nein","ja",5
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","nein","ja",5
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","nein","ja",5
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","nein","ja",5
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","nein","ja",5
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","nein","ja",5
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","nein","ja",5
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","nein","ja",5
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","nein","ja",5
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","nein","ja",5
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","nein","ja",5
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","nein","ja",5
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","nein","ja",5
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","nein","ja",5
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","nein","ja",5
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","nein","ja",5
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","nein","ja",5
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","nein","ja",5
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","nein","ja",5
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","nein","ja",5
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","nein","ja",5
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","nein","ja",5
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","nein","ja",5
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","nein","ja",5
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","nein","ja",5
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","nein","ja",5
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","nein","ja",5
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","nein","ja",5
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","nein","ja",5
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","nein","ja",5
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","nein","ja",5
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","nein","ja",5
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","nein","ja",5
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","nein","ja",5
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","nein","ja",5
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","nein","ja",5
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","nein","ja",5
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","nein","ja",5
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","nein","ja",5
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","nein","ja",5
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","nein","ja",5
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","nein","ja",5
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","nein","ja",5
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","nein","ja",5
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","nein","ja",5
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","nein","ja",5
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","nein","ja",5
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","nein","ja",5
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","nein","ja",5
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","nein","ja",5
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","nein","ja",5
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","nein","ja",5
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","nein","ja",5
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","nein","ja",5
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","nein","ja",5
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","nein","ja",5
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","nein","ja",5
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","nein","ja",5
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","nein","ja",5
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","nein","ja",5
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","nein","ja",5
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","nein","ja",5
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","nein","ja",5
+1,4,"ambiguous","completive","telic","Der Lehrer*ging*über den*Schulhof,*und zwar*in zwei Minuten,*mit*großen Schritten.","item","nein","ja",6
+2,3,"ambiguous","completive","atelic","Der Ingenieur*spazierte*über die*Großbaustelle,*und zwar*in zwanzig Minuten,*mit*höchster Konzentration.","item","nein","ja",6
+3,7,"telic","completive","atelic","Der Mann*spazierte*zum*Bahnhofsvorplatz,*und zwar*in eine Minute,*bei*kaltem Nieselregen.","item","nein","ja",6
+4,8,"telic","completive","telic","Der Rentner*ging*zum*Friedhof,*und zwar*in zwölf Minuten,*in Gedanken*versunken.","item","nein","ja",6
+5,1,"ambiguous","durative","atelic","Die Blattlaus*wanderte*über das*Blütenblatt,*und zwar*dreißig Sekunden lang,*unter Beobachtung*des Forschers.","item","nein","ja",6
+6,2,"ambiguous","durative","telic","Der Krebs*kletterte*über das*Korallenriff,*und zwar*eine halbe Stunde lang,*bei*Ebbe.","item","nein","ja",6
+7,6,"telic","durative","telic","Der Troll*kletterte*zur*Brücke,*und zwar*acht Minuten lang,*um den Schatz*zu verstecken.","item","nein","ja",6
+8,5,"telic","durative","atelic","Der Tourist*wanderte*zur*Hochebene,*und zwar*zwei Stunden lang,*mit*großer Begeisterung.","item","nein","ja",6
+9,4,"ambiguous","completive","telic","Der Jugendliche*raste*über den*Marktplatz,*und zwar*in vierzig Sekunden,*auf der Suche*nach seiner Freundin.","item","nein","ja",6
+10,3,"ambiguous","completive","atelic","Der Rennfahrer*schlenderte*über die*Rennstrecke,*und zwar*in sieben Minuten,*unter Beobachtung*der Fans.","item","nein","ja",6
+11,7,"telic","completive","atelic","Der Vertreter*schlenderte*zum*Messegelände,*und zwar*in dreizehn Minuten,*bei*schlechtem Wetter.","item","nein","ja",6
+12,8,"telic","completive","telic","Der Händler*raste*zum*Flohmarkt,*und zwar*in zehn Minuten,*um Schnäppchen*zu ergattern.","item","nein","ja",6
+13,1,"ambiguous","durative","atelic","Der Trainer*lief*über den*Sportplatz,*und zwar*zwanzig Sekunden lang,*mit*voller Motivation.","item","nein","ja",6
+14,2,"ambiguous","durative","telic","Der Professor*rannte*über den*Brechtbau,*und zwar*fünf Minuten lang,*um einen Vortrag*zu halten.","item","nein","ja",6
+15,6,"telic","durative","telic","Die Ratte*rannte*zum*Schiff,*und zwar*neun Minuten lang,*ohne den Kater*zu wecken.","item","nein","ja",6
+16,5,"telic","durative","atelic","Der Junge*lief*zum*Spielplatz,*und zwar*drei Minuten lang,*um seinen Freund*zu finden.","item","nein","ja",6
+17,4,"ambiguous","completive","telic","Die Möwe*flog*über den*Hafen,*und zwar*in sieben Minuten,*auf Suche*nach Futter.","item","nein","ja",6
+18,3,"ambiguous","completive","atelic","Der Kormoran*segelte*über die*Insel,*und zwar*in zehn Minuten,*bei*brütender Hitze.","item","nein","ja",6
+19,7,"telic","completive","atelic","Der Storch*segelte*zum*Sumpf,*und zwar*in vierzig Minuten,*mit*knurrendem Magen.","item","nein","ja",6
+20,8,"telic","completive","telic","Die Crew*flog*zum*Mittelmeer,*und zwar*in zwei Stunden,*bei*Seenebel.","item","nein","ja",6
+21,1,"ambiguous","durative","atelic","Der Cowboy*ritt*über die*Prärie,*und zwar*fünf Tage lang,*in*glühender Hitze.","item","nein","ja",6
+22,2,"ambiguous","durative","telic","Der Offizier*fuhr*über das*Schlachtfeld,*und zwar*drei Stunden lang,*in*eisiger Kälte.","item","nein","ja",6
+23,6,"telic","durative","telic","Der Bauer*fuhr*zum*Stoppelfeld,*und zwar*fünfzehn Minuten lang,*bei*strahlendem Sonnenschein.","item","nein","ja",6
+24,5,"telic","durative","atelic","Der Knecht*ritt*zur*Weide,*und zwar*drei Minuten lang,*auf Befehl*seines Herrn.","item","nein","ja",6
+25,4,"ambiguous","completive","telic","Der Gefreite*marschierte*über den*Kasernenplatz,*und zwar*in sieben Minuten,*auf Befehl*vom Leutnant.","item","nein","ja",6
+26,3,"ambiguous","completive","atelic","Der Pfadfinder*schlich*über den*Zeltplatz,*und zwar*in fünf Minuten,*unter der Anleitung*des Rangers.","item","nein","ja",6
+27,7,"telic","completive","atelic","Der Ehemann*schlich*zum*Hinterhof,*und zwar*in zwei Minuten,*unter der Beobachtung*seiner Frau.","item","nein","ja",6
+28,8,"telic","completive","telic","Der Soldat*marschierte*zum*Festplatz,*und zwar*in zwölf Minuten,*mit*konzentriertem Blick.","item","nein","ja",6
+29,1,"ambiguous","durative","atelic","Das Kind*radelte*über den*Tunnel,*und zwar*drei Minuten lang,*unter der Anleitung*der Sportlehrerin.","item","nein","ja",6
+30,2,"ambiguous","durative","telic","Der Clown*kroch*über die*Arena,*und zwar*vier Minuten lang,*als Teil*seines Auftritts.","item","nein","ja",6
+31,6,"telic","durative","telic","Der Schauspieler*kroch*zur*Bühne,*und zwar*vier Minuten lang,*unter der Anleitung*des Regisseurs.","item","nein","ja",6
+32,5,"telic","durative","atelic","Der Rekrut*radelte*zum*Gelände,*und zwar*eine halbe Stunde lang,*in*klirrender Kälte.","item","nein","ja",6
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","nein","ja",6
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","nein","ja",6
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","nein","ja",6
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","nein","ja",6
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","nein","ja",6
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","nein","ja",6
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","nein","ja",6
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","nein","ja",6
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","nein","ja",6
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","nein","ja",6
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","nein","ja",6
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","nein","ja",6
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","nein","ja",6
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","nein","ja",6
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","nein","ja",6
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","nein","ja",6
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","nein","ja",6
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","nein","ja",6
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","nein","ja",6
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","nein","ja",6
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","nein","ja",6
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","nein","ja",6
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","nein","ja",6
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","nein","ja",6
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","nein","ja",6
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","nein","ja",6
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","nein","ja",6
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","nein","ja",6
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","nein","ja",6
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","nein","ja",6
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","nein","ja",6
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","nein","ja",6
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","nein","ja",6
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","nein","ja",6
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","nein","ja",6
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","nein","ja",6
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","nein","ja",6
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","nein","ja",6
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","nein","ja",6
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","nein","ja",6
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","nein","ja",6
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","nein","ja",6
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","nein","ja",6
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","nein","ja",6
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","nein","ja",6
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","nein","ja",6
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","nein","ja",6
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","nein","ja",6
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","nein","ja",6
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","nein","ja",6
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","nein","ja",6
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","nein","ja",6
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","nein","ja",6
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","nein","ja",6
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","nein","ja",6
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","nein","ja",6
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","nein","ja",6
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","nein","ja",6
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","nein","ja",6
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","nein","ja",6
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","nein","ja",6
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","nein","ja",6
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","nein","ja",6
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","nein","ja",6
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","nein","ja",6
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","nein","ja",6
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","nein","ja",6
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","nein","ja",6
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","nein","ja",6
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","nein","ja",6
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","nein","ja",6
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","nein","ja",6
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","nein","ja",6
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","nein","ja",6
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","nein","ja",6
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","nein","ja",6
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","nein","ja",6
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","nein","ja",6
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","nein","ja",6
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","nein","ja",6
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","nein","ja",6
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","nein","ja",6
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","nein","ja",6
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","nein","ja",6
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","nein","ja",6
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","nein","ja",6
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","nein","ja",6
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","nein","ja",6
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","nein","ja",6
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","nein","ja",6
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","nein","ja",6
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","nein","ja",6
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","nein","ja",6
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","nein","ja",6
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","nein","ja",6
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","nein","ja",6
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","nein","ja",6
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","nein","ja",6
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","nein","ja",6
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","nein","ja",6
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","nein","ja",6
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","nein","ja",6
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","nein","ja",6
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","nein","ja",6
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","nein","ja",6
+1,5,"telic","durative","atelic","Der Lehrer*spazierte*zum*Schulhof,*und zwar*zwei Minuten lang,*mit*großen Schritten.","item","nein","ja",7
+2,4,"ambiguous","completive","telic","Der Ingenieur*ging*über die*Großbaustelle,*und zwar*in zwanzig Minuten,*mit*höchster Konzentration.","item","nein","ja",7
+3,3,"ambiguous","completive","atelic","Der Mann*spazierte*über den*Bahnhofsvorplatz,*und zwar*in eine Minute,*bei*kaltem Nieselregen.","item","nein","ja",7
+4,7,"telic","completive","atelic","Der Rentner*spazierte*zum*Friedhof,*und zwar*in zwölf Minuten,*in Gedanken*versunken.","item","nein","ja",7
+5,8,"telic","completive","telic","Die Blattlaus*kletterte*zum*Blütenblatt,*und zwar*in dreißig Sekunden,*unter Beobachtung*des Forschers.","item","nein","ja",7
+6,1,"ambiguous","durative","atelic","Der Krebs*wanderte*über das*Korallenriff,*und zwar*eine halbe Stunde lang,*bei*Ebbe.","item","nein","ja",7
+7,2,"ambiguous","durative","telic","Der Troll*kletterte*über die*Brücke,*und zwar*acht Minuten lang,*um den Schatz*zu verstecken.","item","nein","ja",7
+8,6,"telic","durative","telic","Der Tourist*kletterte*zur*Hochebene,*und zwar*zwei Stunden lang,*mit*großer Begeisterung.","item","nein","ja",7
+9,5,"telic","durative","atelic","Der Jugendliche*schlenderte*zum*Marktplatz,*und zwar*vierzig Sekunden lang,*auf der Suche*nach seiner Freundin.","item","nein","ja",7
+10,4,"ambiguous","completive","telic","Der Rennfahrer*raste*über die*Rennstrecke,*und zwar*in sieben Minuten,*unter Beobachtung*der Fans.","item","nein","ja",7
+11,3,"ambiguous","completive","atelic","Der Vertreter*schlenderte*über das*Messegelände,*und zwar*in dreizehn Minuten,*bei*schlechtem Wetter.","item","nein","ja",7
+12,7,"telic","completive","atelic","Der Händler*schlenderte*zum*Flohmarkt,*und zwar*in zehn Minuten,*um Schnäppchen*zu ergattern.","item","nein","ja",7
+13,8,"telic","completive","telic","Der Trainer*rannte*zum*Sportplatz,*und zwar*in zwanzig Sekunden,*mit*voller Motivation.","item","nein","ja",7
+14,1,"ambiguous","durative","atelic","Der Professor*lief*über den*Brechtbau,*und zwar*fünf Minuten lang,*um einen Vortrag*zu halten.","item","nein","ja",7
+15,2,"ambiguous","durative","telic","Die Ratte*rannte*über das*Schiff,*und zwar*neun Minuten lang,*ohne den Kater*zu wecken.","item","nein","ja",7
+16,6,"telic","durative","telic","Der Junge*rannte*zum*Spielplatz,*und zwar*drei Minuten lang,*um seinen Freund*zu finden.","item","nein","ja",7
+17,5,"telic","durative","atelic","Die Möwe*segelte*zum*Hafen,*und zwar*sieben Minuten lang,*auf Suche*nach Futter.","item","nein","ja",7
+18,4,"ambiguous","completive","telic","Der Kormoran*flog*über die*Insel,*und zwar*in zehn Minuten,*bei*brütender Hitze.","item","nein","ja",7
+19,3,"ambiguous","completive","atelic","Der Storch*segelte*über den*Sumpf,*und zwar*in vierzig Minuten,*mit*knurrendem Magen.","item","nein","ja",7
+20,7,"telic","completive","atelic","Die Crew*segelte*zum*Mittelmeer,*und zwar*in zwei Stunden,*bei*Seenebel.","item","nein","ja",7
+21,8,"telic","completive","telic","Der Cowboy*fuhr*zur*Prärie,*und zwar*in fünf Tagen,*in*glühender Hitze.","item","nein","ja",7
+22,1,"ambiguous","durative","atelic","Der Offizier*ritt*über das*Schlachtfeld,*und zwar*drei Stunden lang,*in*eisiger Kälte.","item","nein","ja",7
+23,2,"ambiguous","durative","telic","Der Bauer*fuhr*über das*Stoppelfeld,*und zwar*fünfzehn Minuten lang,*bei*strahlendem Sonnenschein.","item","nein","ja",7
+24,6,"telic","durative","telic","Der Knecht*fuhr*zur*Weide,*und zwar*drei Minuten lang,*auf Befehl*seines Herrn.","item","nein","ja",7
+25,5,"telic","durative","atelic","Der Gefreite*schlich*zum*Kasernenplatz,*und zwar*sieben Minuten lang,*auf Befehl*vom Leutnant.","item","nein","ja",7
+26,4,"ambiguous","completive","telic","Der Pfadfinder*marschierte*über den*Zeltplatz,*und zwar*in fünf Minuten,*unter der Anleitung*des Rangers.","item","nein","ja",7
+27,3,"ambiguous","completive","atelic","Der Ehemann*schlich*über den*Hinterhof,*und zwar*in zwei Minuten,*unter der Beobachtung*seiner Frau.","item","nein","ja",7
+28,7,"telic","completive","atelic","Der Soldat*schlich*zum*Festplatz,*und zwar*in zwölf Minuten,*mit*konzentriertem Blick.","item","nein","ja",7
+29,8,"telic","completive","telic","Das Kind*kroch*zum*Tunnel,*und zwar*in drei Minuten,*unter der Anleitung*der Sportlehrerin.","item","nein","ja",7
+30,1,"ambiguous","durative","atelic","Der Clown*radelte*über die*Arena,*und zwar*vier Minuten lang,*als Teil*seines Auftritts.","item","nein","ja",7
+31,2,"ambiguous","durative","telic","Der Schauspieler*kroch*über die*Bühne,*und zwar*vier Minuten lang,*unter der Anleitung*des Regisseurs.","item","nein","ja",7
+32,6,"telic","durative","telic","Der Rekrut*kroch*zum*Gelände,*und zwar*eine halbe Stunde lang,*in*klirrender Kälte.","item","nein","ja",7
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","nein","ja",7
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","nein","ja",7
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","nein","ja",7
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","nein","ja",7
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","nein","ja",7
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","nein","ja",7
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","nein","ja",7
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","nein","ja",7
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","nein","ja",7
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","nein","ja",7
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","nein","ja",7
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","nein","ja",7
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","nein","ja",7
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","nein","ja",7
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","nein","ja",7
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","nein","ja",7
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","nein","ja",7
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","nein","ja",7
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","nein","ja",7
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","nein","ja",7
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","nein","ja",7
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","nein","ja",7
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","nein","ja",7
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","nein","ja",7
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","nein","ja",7
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","nein","ja",7
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","nein","ja",7
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","nein","ja",7
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","nein","ja",7
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","nein","ja",7
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","nein","ja",7
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","nein","ja",7
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","nein","ja",7
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","nein","ja",7
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","nein","ja",7
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","nein","ja",7
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","nein","ja",7
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","nein","ja",7
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","nein","ja",7
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","nein","ja",7
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","nein","ja",7
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","nein","ja",7
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","nein","ja",7
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","nein","ja",7
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","nein","ja",7
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","nein","ja",7
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","nein","ja",7
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","nein","ja",7
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","nein","ja",7
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","nein","ja",7
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","nein","ja",7
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","nein","ja",7
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","nein","ja",7
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","nein","ja",7
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","nein","ja",7
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","nein","ja",7
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","nein","ja",7
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","nein","ja",7
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","nein","ja",7
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","nein","ja",7
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","nein","ja",7
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","nein","ja",7
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","nein","ja",7
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","nein","ja",7
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","nein","ja",7
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","nein","ja",7
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","nein","ja",7
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","nein","ja",7
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","nein","ja",7
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","nein","ja",7
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","nein","ja",7
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","nein","ja",7
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","nein","ja",7
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","nein","ja",7
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","nein","ja",7
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","nein","ja",7
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","nein","ja",7
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","nein","ja",7
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","nein","ja",7
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","nein","ja",7
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","nein","ja",7
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","nein","ja",7
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","nein","ja",7
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","nein","ja",7
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","nein","ja",7
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","nein","ja",7
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","nein","ja",7
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","nein","ja",7
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","nein","ja",7
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","nein","ja",7
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","nein","ja",7
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","nein","ja",7
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","nein","ja",7
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","nein","ja",7
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","nein","ja",7
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","nein","ja",7
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","nein","ja",7
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","nein","ja",7
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","nein","ja",7
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","nein","ja",7
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","nein","ja",7
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","nein","ja",7
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","nein","ja",7
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","nein","ja",7
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","nein","ja",7
+1,6,"telic","durative","telic","Der Lehrer*ging*zum*Schulhof,*und zwar*zwei Minuten lang,*mit*großen Schritten.","item","nein","ja",8
+2,5,"telic","durative","atelic","Der Ingenieur*spazierte*zur*Großbaustelle,*und zwar*zwanzig Minuten lang,*mit*höchster Konzentration.","item","nein","ja",8
+3,4,"ambiguous","completive","telic","Der Mann*ging*über den*Bahnhofsvorplatz,*und zwar*in eine Minute,*bei*kaltem Nieselregen.","item","nein","ja",8
+4,3,"ambiguous","completive","atelic","Der Rentner*spazierte*über den*Friedhof,*und zwar*in zwölf Minuten,*in Gedanken*versunken.","item","nein","ja",8
+5,7,"telic","completive","atelic","Die Blattlaus*wanderte*zum*Blütenblatt,*und zwar*in dreißig Sekunden,*unter Beobachtung*des Forschers.","item","nein","ja",8
+6,8,"telic","completive","telic","Der Krebs*kletterte*zum*Korallenriff,*und zwar*in einer halben Stunde,*bei*Ebbe.","item","nein","ja",8
+7,1,"ambiguous","durative","atelic","Der Troll*wanderte*über die*Brücke,*und zwar*acht Minuten lang,*um den Schatz*zu verstecken.","item","nein","ja",8
+8,2,"ambiguous","durative","telic","Der Tourist*kletterte*über die*Hochebene,*und zwar*zwei Stunden lang,*mit*großer Begeisterung.","item","nein","ja",8
+9,6,"telic","durative","telic","Der Jugendliche*raste*zum*Marktplatz,*und zwar*vierzig Sekunden lang,*auf der Suche*nach seiner Freundin.","item","nein","ja",8
+10,5,"telic","durative","atelic","Der Rennfahrer*schlenderte*zur*Rennstrecke,*und zwar*sieben Minuten lang,*unter Beobachtung*der Fans.","item","nein","ja",8
+11,4,"ambiguous","completive","telic","Der Vertreter*raste*über das*Messegelände,*und zwar*in dreizehn Minuten,*bei*schlechtem Wetter.","item","nein","ja",8
+12,3,"ambiguous","completive","atelic","Der Händler*schlenderte*über den*Flohmarkt,*und zwar*in zehn Minuten,*um Schnäppchen*zu ergattern.","item","nein","ja",8
+13,7,"telic","completive","atelic","Der Trainer*lief*zum*Sportplatz,*und zwar*in zwanzig Sekunden,*mit*voller Motivation.","item","nein","ja",8
+14,8,"telic","completive","telic","Der Professor*rannte*zum*Brechtbau,*und zwar*in fünf Minuten,*um einen Vortrag*zu halten.","item","nein","ja",8
+15,1,"ambiguous","durative","atelic","Die Ratte*lief*über das*Schiff,*und zwar*neun Minuten lang,*ohne den Kater*zu wecken.","item","nein","ja",8
+16,2,"ambiguous","durative","telic","Der Junge*rannte*über den*Spielplatz,*und zwar*drei Minuten lang,*um seinen Freund*zu finden.","item","nein","ja",8
+17,6,"telic","durative","telic","Die Möwe*flog*zum*Hafen,*und zwar*sieben Minuten lang,*auf Suche*nach Futter.","item","nein","ja",8
+18,5,"telic","durative","atelic","Der Kormoran*segelte*zur*Insel,*und zwar*zehn Minuten lang,*bei*brütender Hitze.","item","nein","ja",8
+19,4,"ambiguous","completive","telic","Der Storch*flog*über den*Sumpf,*und zwar*in vierzig Minuten,*mit*knurrendem Magen.","item","nein","ja",8
+20,3,"ambiguous","completive","atelic","Die Crew*segelte*über das*Mittelmeer,*und zwar*in zwei Stunden,*bei*Seenebel.","item","nein","ja",8
+21,7,"telic","completive","atelic","Der Cowboy*ritt*zur*Prärie,*und zwar*in fünf Tagen,*in*glühender Hitze.","item","nein","ja",8
+22,8,"telic","completive","telic","Der Offizier*fuhr*zum*Schlachtfeld,*und zwar*in drei Stunden,*in*eisiger Kälte.","item","nein","ja",8
+23,1,"ambiguous","durative","atelic","Der Bauer*ritt*über das*Stoppelfeld,*und zwar*fünfzehn Minuten lang,*bei*strahlendem Sonnenschein.","item","nein","ja",8
+24,2,"ambiguous","durative","telic","Der Knecht*fuhr*über die*Weide,*und zwar*drei Minuten lang,*auf Befehl*seines Herrn.","item","nein","ja",8
+25,6,"telic","durative","telic","Der Gefreite*marschierte*zum*Kasernenplatz,*und zwar*sieben Minuten lang,*auf Befehl*vom Leutnant.","item","nein","ja",8
+26,5,"telic","durative","atelic","Der Pfadfinder*schlich*zum*Zeltplatz,*und zwar*fünf Minuten lang,*unter der Anleitung*des Rangers.","item","nein","ja",8
+27,4,"ambiguous","completive","telic","Der Ehemann*marschierte*über den*Hinterhof,*und zwar*in zwei Minuten,*unter der Beobachtung*seiner Frau.","item","nein","ja",8
+28,3,"ambiguous","completive","atelic","Der Soldat*schlich*über den*Festplatz,*und zwar*in zwölf Minuten,*mit*konzentriertem Blick.","item","nein","ja",8
+29,7,"telic","completive","atelic","Das Kind*radelte*zum*Tunnel,*und zwar*in drei Minuten,*unter der Anleitung*der Sportlehrerin.","item","nein","ja",8
+30,8,"telic","completive","telic","Der Clown*kroch*zur*Arena,*und zwar*in vier Minuten,*als Teil*seines Auftritts.","item","nein","ja",8
+31,1,"ambiguous","durative","atelic","Der Schauspieler*radelte*über die*Bühne,*und zwar*vier Minuten lang,*unter der Anleitung*des Regisseurs.","item","nein","ja",8
+32,2,"ambiguous","durative","telic","Der Rekrut*kroch*über das*Gelände,*und zwar*eine halbe Stunde lang,*in*klirrender Kälte.","item","nein","ja",8
+101,100,".",".",".","Das Mädchen*träumte*noch immer*von dem*jungen König,*obwohl*er*verheiratet war.","filler","nein","ja",8
+102,101,".",".",".","Der Diamant*kochte*das Holz*aus der Datenbank,*weil*das vorhandene Bildmaterial*aus reinen Texten*bestand.","filler","nein","ja",8
+103,101,".",".",".","Der Anwalt*belog*die Brille*beim Abendessen*und*beschimpfte*die Müslischale*dabei.","filler","nein","ja",8
+104,101,".",".",".","Das Feuerwehrauto*schimpfte*mit dem Grill*beim Mittagessen,*bevor*es*einen Satelliten*in den Orbit brachte.","filler","nein","ja",8
+105,100,".",".",".","Der Pfarrer*blickte*gelassen*in den Altar*und*setzte*die Predigt*fort.","filler","nein","ja",8
+106,100,".",".",".","Die Designerin*begeisterte*das Publikum*mit*ihren*femininen*Kreationen.","filler","nein","ja",8
+107,100,".",".",".","Der Kandidat*debattierte*mit*den Konkurrenten*auf der Fensterbank,*während*die Sonne *schien.","filler","nein","ja",8
+108,101,".",".",".","Der Kaufmann*lachte*mit dem Kissen*und*nahm*keine Rücksicht*auf die Schüler.","filler","nein","ja",8
+109,100,".",".",".","Der Komplize*pfiff*laut*durch die Finger,*damit*der Dieb*die Warnung *verstand.","filler","nein","ja",8
+110,101,".",".",".","Die Prinzessin*belog*die Blätter*einer Douglasie,*obwohl*sie*das eigentlich*nicht machen wollte.","filler","nein","ja",8
+111,101,".",".",".","Linda*goss*den Bademantel*auf der Wiese,*nachdem*der Hochschullehrer*einen erfolgreichen Film*veröffentlichte.","filler","nein","ja",8
+112,100,".",".",".","Die Schüler*eilten*aus dem*Schulgebäude,*weil*der Feuermelder*laut*dröhnte.","filler","nein","ja",8
+113,100,".",".",".","Der Mitarbeiter*wählte*eine Abkürzung*quer*durch*die Fertigungshalle.","filler","nein","ja",8
+114,100,".",".",".","Die Großmutter*fegte*den Boden*mit einem Strohbesen*und*lies*den Staub*aufwirbeln.","filler","nein","ja",8
+115,100,".",".",".","Der Chef*kündigte*die Köchin,*weil*ihr Verhalten*unangemessen war.","filler","nein","ja",8
+116,100,".",".",".","Die Nutzer*arbeiteten*lange*mit dem Programm,*nachdem*sie*die Funktionen*verstanden hatten.","filler","nein","ja",8
+117,100,".",".",".","Der Zauberer*verschwand*auf die*Bühne*mit viel Krach,*während*das Publikum *tobte.","filler","nein","ja",8
+118,100,".",".",".","Die Kundin*sprach*den Mitarbeiter*an,*weil*sie*ihren Auftrag*stornieren wollte.","filler","nein","ja",8
+119,100,".",".",".","Der Koch*experimentierte*mit*exotischen Speisen,*obwohl*er*nur wenig*Zeit hatte.","filler","nein","ja",8
+120,100,".",".",".","Der Ladendieb*gestand*auf dem*Revier,*damit*er*eine Strafmilderung*bekam.","filler","nein","ja",8
+121,100,".",".",".","Der Geschäftsmann*kaufte*den Fußballverein*und*hielt*ihn lange*am Leben..","filler","nein","ja",8
+122,100,".",".",".","Der Nachbar*schimpfte*mit*dem Hundebesitzer,*weil*seine Geduld*am Ende war.","filler","nein","ja",8
+123,100,".",".",".","Das Eichhörnchen*sprang*auf das*Schulgebäude*und*änderte blitzschnell *die Richtung.","filler","nein","ja",8
+124,100,".",".",".","Die Künstlerin*arbeitete*mit dem Pinsel*ohne Pause,*denn*sie wollte*den Auftrag*schnell erledigen.","filler","nein","ja",8
+125,100,".",".",".","Die Abgeordneten*diskutierten*über das*Thema*und*fanden*einen guten Kompromiss.","filler","nein","ja",8
+126,100,".",".",".","Die Gruppe*bastelte*mit den*Perlen,*jedoch*langweilten*sie sich*sehr.","filler","nein","ja",8
+127,100,".",".",".","Der Betriebsleiter*suchte*nach*einem Angestellten,*indem*er*ihn ausrufen *ließ.","filler","nein","ja",8
+128,100,".",".",".","Der Politiker*sprach*laut*und*beantwortete*alle Fragen*der Journalisten.","filler","nein","ja",8
+129,100,".",".",".","Der Bruder*brach*mit*der Schwester,*obwohl*er*darüber*sehr traurig war.","filler","nein","ja",8
+130,100,".",".",".","Das Volk*hörte*auf den*Herrscher,*obwohl*die Opposition*davon abriet.","filler","nein","ja",8
+131,100,".",".",".","Die Tiere*tranken*aus einer großen Pfütze *mitten auf der Fläche,*weil*sie*sehr durstig*waren.","filler","nein","ja",8
+132,100,".",".",".","Der Vorsitzende*erzählte*von dem*Wahlerfolg*und*prahlte*mit den*eindeutigen Ergebnissen.","filler","nein","ja",8
+133,100,".",".",".","Der Passagier*fragte*über den*Kabinendruck*und*lauschte neugierig*der Antwort*des Flugbegleiters.","filler","nein","ja",8
+134,100,".",".",".","Das Baby*tanzte*fröhlich*im Kindersitz,*als*es*die lustige Musik*hörte.","filler","nein","ja",8
+135,100,".",".",".","Die Buben*glaubten*an den*Weihnachtsmann,*nachdem*ihr Opa*die Geschichte*erzählt hatte.","filler","nein","ja",8
+136,100,".",".",".","Die Klasse*plante*einen Ausflug*ins Gebirge,*wo*sie*in den Jugendherberge*übernachten sollte.","filler","nein","ja",8
+137,100,".",".",".","Der Hirsch*starrte*gebannt*in den Wald *und*lauschte*den Geräuschen*der Umgebung.","filler","nein","ja",8
+138,100,".",".",".","Der Professor*berichtete*von der*langweiligen Urlaubsreise,*bevor*er*in den Saal*kam.","filler","nein","ja",8
+139,100,".",".",".","Die Putzfrau*wischte sich*die Finger*am Kittel sauber*und*verstaute*die Dosen*im Kühlfach.","filler","nein","ja",8
+140,100,".",".",".","Der Tierarzt*untersuchte*den Kater*und*konnte*keine äußeren Verletzungen*feststellen.","filler","nein","ja",8
+141,100,".",".",".","Die Politikerin*hungerte*in einem*finsteren Gefängnis,*obwohl*sie*vollkommen*unschuldig war.","filler","nein","ja",8
+142,100,".",".",".","Die Kanzlerin*reagierte*überrascht,*aber*nicht*allzu enttäuscht.","filler","nein","ja",8
+143,101,".",".",".","Der Mann*unterstützte*die Kühe,*indem*er*ihnen*spezielle Reizwäsche*aus Frankreich brachte.","filler","nein","ja",8
+144,101,".",".",".","Die Konditorin*unterschrieb*das Glück*ohne nachzudenken,*wobei*sich die Lage*mit jedem Tag*verschlechterte.","filler","nein","ja",8
+145,100,".",".",".","Der Fahrer*rief*den Kunden*vor der Abholung an,*um*den Termin*zu bestätigen.","filler","nein","ja",8
+146,101,".",".",".","Die Informatikerin*kuschelte*mit dem Buch,*da*der Zugang*von Osten*seit Wochen*gesperrt war.","filler","nein","ja",8
+147,101,".",".",".","Die Tomate*schuppte*das Wasser*aus der Tasse,*nachdem*sie*nach Frankreich*emigrierte.","filler","nein","ja",8
+148,101,".",".",".","Der Elefant*aß*einen Locher*in der Garage,*aber*beschränkte sich*nur auf*die Plastikteile.","filler","nein","ja",8
+149,101,".",".",".","Die Hexe*erklärte*den Kopf,*als*die alte Frau*auf dem Zaun*saß.","filler","nein","ja",8
+150,100,".",".",".","Die Kinder*spielten*ganz leise*über den Spielplatz,*damit*sie*nicht entdeckt wurden.","filler","nein","ja",8
+151,100,".",".",".","Der Hausmeister*suchte*nach*einer Kerze,*da*der Strom*ausgefallen war.","filler","nein","ja",8
+152,101,".",".",".","Die Amsel*zählte*die Ameisen*im Garten,*jedoch*unterbrach*ihr*der Tischler.","filler","nein","ja",8
+153,100,".",".",".","Der Bankangestellte*stieg*ungern*aus dem Bett,*da*ein harter Tag*bevorstand.","filler","nein","ja",8
+154,100,".",".",".","Der Matrose*stand*stolz*auf dem Mast,*während*das Schiff*im Hafen*ruhte.","filler","nein","ja",8
+155,100,".",".",".","Die Mutter*sprach*mit*ihrer Tochter,*als*diese*nach Hause kam.","filler","nein","ja",8
+156,101,".",".",".","Der Opa*gewann*alle Steine*im Wettbewerb*bei*dem Hammer*im Wald.","filler","nein","ja",8
+157,100,".",".",".","Der Fußballspieler*wartete*auf seine*Freundin,*weil*er sie*überraschen wollte.","filler","nein","ja",8
+158,101,".",".",".","Die Gemeinde*hoffte*auf die Außerirdischen,*jedoch*gab es*schon seit Jahren*keine neuen Entführungen.","filler","nein","ja",8
+159,100,".",".",".","Der Vogel*zwitscherte*in der*Baumkrone*und*erfreute*die umstehenden*Menschen.","filler","nein","ja",8
+160,100,".",".",".","Der Manager*lobte*die Praktikantin,*weil*sie*sehr kreativ*und*motiviert war.","filler","nein","ja",8
+161,100,".",".",".","Der Büroangestellte*berichtete*von dem*Vertrag,*als*der Chef*ihn*dazu aufforderte.","filler","nein","ja",8
+162,100,".",".",".","Die Angestellte*arbeitete*ungern*an dem Brief,*da*sie*Überstunden*machen musste.","filler","nein","ja",8
+163,100,".",".",".","Die Reitschüler*eilten*über die*Stahltür*und*versteckten sich*hinter den*Strohballen.","filler","nein","ja",8
+164,101,".",".",".","Die Schwester*hielt*eine Flasche*mit Wasser,*um*die Seele*vom Körper*zu trennen.","filler","nein","ja",8
+165,100,".",".",".","Die Liebhaberin*weinte*aus Wut*und*zerstörte*all*die Erinnerungsfotos.","filler","nein","ja",8
+166,100,".",".",".","Der Erstklässler*schrieb*unleserlich*in sein Heft,*obwohl*er*ein guter*Schüler war.","filler","nein","ja",8
+167,100,".",".",".","Der Held*hat*große Taten*vollbracht,*aber*die Prinzessin*wollte ihn*nicht heiraten.","filler","nein","ja",8
+168,100,".",".",".","Die Schwimmerin*stieg*aus dem*Wasser am Strand,*als*es*zu dämmern*begann.","filler","nein","ja",8
+169,100,".",".",".","Der Kommissar*antwortete*auf die Fragen*der Reporter*und*übte sich*dabei*in Geduld.","filler","nein","ja",8
+170,101,".",".",".","Die Busfahrerin*würzte*den Kaffee*mit Kardamom,*um*die Bücher*schwimmen zu lassen.","filler","nein","ja",8
+171,101,".",".",".","Ein Applaus*öffnete*die Tasse*im März,*jedoch*mangelte es*an Literatur*und Weblinks.","filler","nein","ja",8
+172,100,".",".",".","Der Achtklässler*lernte*fleißig*aus dem Lehrbuch,*da*er*bald einen Test*schreiben musste.","filler","nein","ja",8
+173,100,".",".",".","Der Künstler*malte*auch*schöne Menschen*und*dramatische Stadtszenen.","filler","nein","ja",8
+174,100,".",".",".","Der Vater*schimpfte*sehr laut*mit dem Sohn,*als*er*von den schlechten Schulnoten*erfuhr.","filler","nein","ja",8
+175,101,".",".",".","Der Flaschner*zersägte*die Zeitschrift*und*verarbeitete*sie*zur Dachrinne.","filler","nein","ja",8
+176,101,".",".",".","Der Schaffner*verkleidete*die Münze*zum Fasching,*indem*er*ihr*eine Maske anzog.","filler","nein","ja",8
+177,101,".",".",".","Die Handwerkerin*schlug*den Salat*mit einer Gabel,*damit*die Firmenleitung*den Unternehmensvorstand*verkauft.","filler","nein","ja",8
+178,101,".",".",".","Der Mechaniker*lackierte sich*die Wimpern*vor dem Spiegel,*weil*er*einen sehr großen Schädel*hatte.","filler","nein","ja",8
+179,101,".",".",".","Der Elektriker*las*ein Buch*über Nashörner,*während*seine Tochter*den Panzer*schrumpfte.","filler","nein","ja",8
+180,101,".",".",".","Die Zahnärztin*sprach*mit dem Briefkasten*über ihre Urlaubspläne,*da*diese*mit nach Mallorca*fahren sollte.","filler","nein","ja",8
+181,100,".",".",".","Der Regisseur*dachte*besorgt*an die Aufführung,*als*er*das Theater*betrat.","filler","nein","ja",8
+182,101,".",".",".","Die Köchin*stritt*mit dem Kellner*wegen Kleinigkeiten,*weil*der Tintenfisch*einen Gepäckspanner*stornierte.","filler","nein","ja",8
+183,101,".",".",".","Das Publikum*trank*die Muffins*mit Schokolade,*während*der Schauspieler*mit einem Pinguin*schwamm.","filler","nein","ja",8
+184,100,".",".",".","Die Angeklagte*gestand*die Taten*vor Gericht *und*wurde*zur Todesstrafe*verurteilt.","filler","nein","ja",8
+185,100,".",".",".","Der Athlet*trainierte*wenig*und*völlig*unsystematisch.","filler","nein","ja",8
+186,101,".",".",".","Die Diebin*druckte*das Auto*auf öffentlichen Straßen,*aber*die Kosten*hat sie*unterschätzt.","filler","nein","ja",8
+187,100,".",".",".","Der Verdächtige*sprach*mit*schneller Stimme*und*räusperte sich*immer wieder.","filler","nein","ja",8
+188,101,".",".",".","Die Wolle*drohte*dem Topf*mit dem Messer,*wobei*die Sonne*sich hinter den Sternen*versteckte.","filler","nein","ja",8
+189,100,".",".",".","Die Kellnerin*bediente*seit mehreren Stunden*in dem Café*und*es taten*ihr*die Füße weh.","filler","nein","ja",8
+190,101,".",".",".","Die Frau*verlor*ein Haar*und*der Mann*küsste*die Banane.","filler","nein","ja",8
+191,101,".",".",".","Die Friseurin*schminkte*den Hamster*am Morgen,*indem*sie*die Pinsel*unter die Oberhaut gespritzte.","filler","nein","ja",8
+192,101,".",".",".","Die Maurer*wuschen*den Kuchen*mit Seife,*während*die Lackierer*den Bruttoverdienst*abbauten.","filler","nein","ja",8
+193,100,".",".",".","Die Frau*las*ungern*auf den Handschriften,*bevor*die Dokumente*überprüft wurden.","filler","nein","ja",8
+194,100,".",".",".","Die Nonne*betete*leidenschaftlich*über dem Altar,*bevor*sie*die Kapelle*verließ.","filler","nein","ja",8
+195,101,".",".",".","Keine Gurke*stand*auf dem Kind,*wobei*die Teppiche*mehrere Menschen*umgebracht hatten.","filler","nein","ja",8
+196,100,".",".",".","Der Hubschrauber*landete*auf dem*Flughafen,*obwohl*die Besatzung*keine Erlaubnis*hatte.","filler","nein","ja",8
+1001,0,".",".",".","In Internetforen*diskutierten*Eltern,*bevor*sie*mit den Lehrern*sprachen.","exercise","nein","ja",8
+1002,0,".",".",".","Beide Birnen*wurden*von Freiwilligen betrieben,*wobei*es*an der Buchhaltung haperte.","exercise","nein","ja",8
+1003,0,".",".",".","Das Fruchtfleisch*sang*ein Lied,*bevor*die Frucht*klagte.","exercise","nein","ja",8
+1004,0,".",".",".","Das Kind*klagte*über Schmerzen,*während*die Mutter*Milchreis kochte.","exercise","nein","ja",8
+1005,0,".",".",".","Das Paar*hatte*vier Kinder,*aber*wollte*nur zwei.","exercise","nein","ja",8
+1006,0,".",".",".","Das Team*wollte*kein Spiel*gewinnen,*während*es dem Trainer*egal war.","exercise","nein","ja",8
+1007,0,".",".",".","Der Bundesrat*schien*sich zu treffen,*während*die Journalisten*vor der Türe warteten.","exercise","nein","ja",8
+1008,0,".",".",".","Die UN*riefen*Myanmar dazu auf,*die Verfolgung*der Rohingya*zu beenden.","exercise","nein","ja",8
+1009,0,".",".",".","Der Schwerpunkt*änderte sich,*während*der Radrennfahrer*zur Seite kippte.","exercise","nein","ja",8

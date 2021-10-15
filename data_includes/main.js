@@ -73,19 +73,15 @@ const newPrimer = () => [
 // screen, main experiment, result logging, and end screen. The instructions 
 // depend on the counterbalance of answers (yes/no on the left or right). In the 
 // absence of manual assignment the participant are assigned to instruction 1
-/*if (GetURLParameter("seqOrder")<=1)
+if (GetURLParameter("seqOrder")<=4)
     Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
-else if (GetURLParameter("seqOrder")>=2)
-    Sequence("ethics", "setcounter", "participants", "instructions2", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
-else if (GetURLParameter("withsquare")<=1)
-    Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
-else if (GetURLParameter("withsquare")>=2)
+else if (GetURLParameter("seqOrder")>=5)
     Sequence("ethics", "setcounter", "participants", "instructions2", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
 else 
-    Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")*/
+    Sequence("ethics", "setcounter", "participants", "instructions", randomize("experiment-exercise"), "start_experiment", rshuffle("experiment-filler", "experiment-item"), SendResults(), "end")
 
 // Enable this and comment out the sequences above after the experiment has finished
-Sequence("finished")
+// Sequence("finished")
 
 // Ethics agreement: participants must agree before continuing
 newTrial("ethics",
@@ -279,7 +275,7 @@ Template("experiment.csv", row =>
 
 // Final screen: explanation of the goal
 newTrial("end",
-    newText("<div class='fancy'><h2>Vielen Dank für die Teilnahme an unserer Studie!</h2></div><p><b>Wichtig!</b> Um Ihre Vergütung zu bekommen, schicken Sie bitte diesen persönlichen Code an die Versuchsleiterin: <div class='fancy'><em>".concat(voucher, "</em></div></p>"))
+    newText("<div class='fancy'><h2>Vielen Dank für die Teilnahme an unserer Studie!</h2></div><p><b>Wichtig!</b> Um an der Verlosung teilzunehmen, schicken Sie bitte diesen persönlichen Code an die Versuchsleiterin: <div class='fancy'><em>".concat(voucher, "</em></div></p>"))
         .cssContainer({"margin-top":"1em", "margin-bottom":"1em"})
         .print()
     ,
